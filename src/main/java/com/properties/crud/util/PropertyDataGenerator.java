@@ -1,9 +1,9 @@
-package com.example.demospringboot.util;
+package com.properties.crud.util;
 
-import com.example.demospringboot.data.FileHandler;
-import com.example.demospringboot.model.Address;
-import com.example.demospringboot.data.PropertyData;
-import com.example.demospringboot.model.Property;
+import com.properties.crud.data.FileHandler;
+import com.properties.crud.model.Address;
+import com.properties.crud.data.PropertyData;
+import com.properties.crud.model.Property;
 import com.github.javafaker.Faker;
 
 import java.io.IOException;

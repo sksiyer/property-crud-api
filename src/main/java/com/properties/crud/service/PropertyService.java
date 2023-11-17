@@ -1,8 +1,8 @@
-package com.example.demospringboot.service;
+package com.properties.crud.service;
 
-import com.example.demospringboot.data.FileHandler;
-import com.example.demospringboot.model.Property;
-import com.example.demospringboot.data.PropertyData;
+import com.properties.crud.data.FileHandler;
+import com.properties.crud.model.Property;
+import com.properties.crud.data.PropertyData;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
@@ -12,6 +12,11 @@ import java.util.List;
 @Service
 public class PropertyService {
 
+    /**
+     * Add property to file with unique id
+     * @param property to saved
+     * @return property saved with id
+     */
     public PropertyData create(Property property) {
         try {
             return FileHandler.write(property);
@@ -20,15 +25,30 @@ public class PropertyService {
         }
     }
 
+    /**
+     * Retrieve all the properties on file in order of insertion
+     * @return list of properties with id
+     */
     public List<PropertyData> read(){
         return FileHandler.read();
     }
 
+    /**
+     * Retrieve a property by id given
+     * @param id
+     * @return property with its id
+     */
     public PropertyData readById(Integer id){
         checkId(id);
         return FileHandler.readById(id);
     }
 
+    /**
+     * Update a property with a given id
+     * @param property updated property
+     * @param id property to update
+     * @return updated property with its id
+     */
     public PropertyData update(Property property, Integer id) {
         checkId(id);
         try {
@@ -38,6 +58,10 @@ public class PropertyService {
         }
     }
 
+    /**
+     * Property to delete
+     * @param id property to delete
+     */
     public void delete(Integer id) {
         try {
             checkId(id);

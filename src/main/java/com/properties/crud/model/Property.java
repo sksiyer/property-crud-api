@@ -1,13 +1,11 @@
-package com.example.demospringboot.model;
+package com.properties.crud.model;
 
 import java.math.BigDecimal;
-import java.time.LocalDate;
 
 public class Property {
     private Address address;
     private int noOfBedrooms;
     private double sizeBySqrFoot;
-//    private LocalDate purchaseDate;
     private BigDecimal purchasePrice;
 
     public Property() {
@@ -36,14 +34,6 @@ public class Property {
     public void setSizeBySqrFoot(double sizeBySqrFoot) {
         this.sizeBySqrFoot = sizeBySqrFoot;
     }
-
-//    public LocalDate getPurchaseDate() {
-//        return purchaseDate;
-//    }
-//
-//    public void setPurchaseDate(LocalDate purchaseDate) {
-//        this.purchaseDate = purchaseDate;
-//    }
 
     public BigDecimal getPurchasePrice() {
         return purchasePrice;

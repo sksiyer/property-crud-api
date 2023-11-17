@@ -1,8 +1,8 @@
-package com.example.demospringboot.controller;
+package com.properties.crud.controller;
 
-import com.example.demospringboot.model.Property;
-import com.example.demospringboot.data.PropertyData;
-import com.example.demospringboot.service.PropertyService;
+import com.properties.crud.model.Property;
+import com.properties.crud.data.PropertyData;
+import com.properties.crud.service.PropertyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

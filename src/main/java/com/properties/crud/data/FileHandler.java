@@ -1,6 +1,6 @@
-package com.example.demospringboot.data;
+package com.properties.crud.data;
 
-import com.example.demospringboot.model.Property;
+import com.properties.crud.model.Property;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;

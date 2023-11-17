@@ -1,6 +1,6 @@
-package com.example.demospringboot.controller;
+package com.properties.crud.controller;
 
-import com.example.demospringboot.model.Login;
+import com.properties.crud.model.Login;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;

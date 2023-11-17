@@ -1,4 +1,4 @@
-package com.example.demospringboot.model;
+package com.properties.crud.model;
 
 public class Login {
     private String username;
