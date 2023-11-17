@@ -17,10 +17,6 @@ public class PropertyData extends Property {
         return id;
     }
 
-//    public void setId(int id) {
-//        this.id = id;
-//    }
-
     public void copy(Property property){
         this.setAddress(property.getAddress());
         this.setNoOfBedrooms(property.getNoOfBedrooms());

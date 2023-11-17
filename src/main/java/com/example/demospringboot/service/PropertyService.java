@@ -3,7 +3,6 @@ package com.example.demospringboot.service;
 import com.example.demospringboot.data.FileHandler;
 import com.example.demospringboot.model.Property;
 import com.example.demospringboot.data.PropertyData;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
@@ -12,30 +11,28 @@ import java.util.List;
 
 @Service
 public class PropertyService {
-    @Autowired
-    FileHandler fileHandler;
 
     public PropertyData create(Property property) {
         try {
-            return fileHandler.write(property);
+            return FileHandler.write(property);
         } catch (IOException e) {
             throw new RuntimeException("Unable to create Property", e);
         }
     }
 
     public List<PropertyData> read(){
-        return fileHandler.read();
+        return FileHandler.read();
     }
 
     public PropertyData readById(Integer id){
         checkId(id);
-        return fileHandler.readById(id);
+        return FileHandler.readById(id);
     }
 
     public PropertyData update(Property property, Integer id) {
         checkId(id);
         try {
-            return fileHandler.update(id, property);
+            return FileHandler.update(id, property);
         } catch (IOException e) {
             throw new RuntimeException("Unable to update item", e);
         }
@@ -44,7 +41,7 @@ public class PropertyService {
     public void delete(Integer id) {
         try {
             checkId(id);
-            fileHandler.delete(id);
+            FileHandler.delete(id);
         } catch (IOException e){
             throw new RuntimeException("Unable to delete item", e);
         }
@@ -76,7 +73,7 @@ public class PropertyService {
         List<PropertyData> searchResults = new ArrayList<>();
 
         //get all the properties we have
-        List<PropertyData> propertyDataList = fileHandler.read();
+        List<PropertyData> propertyDataList = FileHandler.read();
 
         for (PropertyData propertyData : propertyDataList) {
             String postcode = propertyData.getAddress().getPostcode();
@@ -91,7 +88,7 @@ public class PropertyService {
     }
 
     private void checkId(Integer id) {
-        if(fileHandler.readById(id) == null){
+        if(FileHandler.readById(id) == null){
             throw new RuntimeException("No property found with id: " + id);
         }
     }

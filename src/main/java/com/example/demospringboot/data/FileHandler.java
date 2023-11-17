@@ -5,18 +5,16 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
 import com.google.gson.stream.JsonReader;
-import org.springframework.stereotype.Service;
 
 import java.io.*;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
-@Service
 public class FileHandler {
     public static String FILE_PATH = "src/main/resources/properties.json";
 
-    public PropertyData write(Property property) throws IOException {
+    public static PropertyData write(Property property) throws IOException {
         Integer nextId = findNextId();
 
         PropertyData data = new PropertyData(property, findNextId());
@@ -34,7 +32,7 @@ public class FileHandler {
         return data;
     }
 
-    public List<PropertyData> read() {
+    public static List<PropertyData> read() {
         List<PropertyData> list = new ArrayList<>();
 
         try {
@@ -53,7 +51,7 @@ public class FileHandler {
         return list;
     }
 
-    public PropertyData readById(Integer id) {
+    public static PropertyData readById(Integer id) {
         List<PropertyData> list = read().stream()
                 .filter(propertyDATA -> propertyDATA.getId() == id)
                 .toList();
@@ -65,7 +63,7 @@ public class FileHandler {
         return list.get(0);
     }
 
-    public PropertyData update(Integer id, Property property) throws IOException {
+    public static PropertyData update(Integer id, Property property) throws IOException {
         // first get the entire list in properties.json file to update later
         List<PropertyData> list = read();
 
@@ -98,7 +96,7 @@ public class FileHandler {
         return currentProperty;
     }
 
-    public void delete(Integer id) throws IOException {
+    public static void delete(Integer id) throws IOException {
         List<PropertyData> list = read();
         List<PropertyData> listToSave = list.stream()
                 .filter(propertyDATA -> propertyDATA.getId() != id)
@@ -107,7 +105,7 @@ public class FileHandler {
         saveFile(listToSave);
     }
 
-    public Integer findNextId() {
+    public static Integer findNextId() {
         List<PropertyData> data = read();
 
         if(data.size() == 0){
@@ -119,7 +117,7 @@ public class FileHandler {
         return data.get(lastIndex).getId() + 1;
     }
 
-    private void saveFile(List<PropertyData> listToSave) throws IOException {
+    private static void saveFile(List<PropertyData> listToSave) throws IOException {
         // write the new list into the file
         try (Writer writer = new FileWriter(FILE_PATH)) {
             Gson gson = new GsonBuilder().setPrettyPrinting().create();

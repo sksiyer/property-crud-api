@@ -45,16 +45,14 @@ public class PropertyDataGenerator {
         return propertyData;
     }
     private static String generateRandomLondonPostcode() {
-        // London area codes
+        // London's area codes
         String[] londonAreaCodes = {"SE", "NW", "SW", "N", "TW", "KT", "WC", "EC", "E"};
 
         // Randomly select one of the London area codes
         String londonAreaCode = Faker.instance().options().option(londonAreaCodes);
 
         // Generate a random one or two-digit number for the second part of the postcode
-        // Generate a random one or two-digit number for the second part of the postcode
         int randomDigits = Faker.instance().number().numberBetween(1, 20);
-
 
         return londonAreaCode + randomDigits + " " +
                 Faker.instance().number().digits(1) +
