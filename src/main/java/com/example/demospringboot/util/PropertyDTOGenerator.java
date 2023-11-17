@@ -63,7 +63,7 @@ public class PropertyDTOGenerator {
 
 
     public static void main(String[] args) throws IOException {
-        List<PropertyDTO> propertyDTOList = generatePropertyDTOList(200);
+        List<PropertyDTO> propertyDTOList = generatePropertyDTOList(600);
 
         // Print the generated JSON
         System.out.println("[");

@@ -34,6 +34,11 @@ public class PropertyController {
         return service.update(property, id);
     }
 
+    @GetMapping("/areacode/{areacode}/average-sqrfoot-price")
+    public Double getAverageSqrFootPrice(@PathVariable String areacode){
+        return service.getAverageSqrFootPrice(areacode);
+    }
+
     @DeleteMapping("/{id}")
     public void delete(@PathVariable Integer id){
         service.delete(id);

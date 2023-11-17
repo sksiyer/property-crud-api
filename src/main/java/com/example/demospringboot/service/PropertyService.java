@@ -7,6 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 
 @Service
@@ -47,6 +48,38 @@ public class PropertyService {
         } catch (IOException e){
             throw new RuntimeException("Unable to delete item", e);
         }
+    }
+
+    public Double getAverageSqrFootPrice(String areacode) {
+        List<PropertyDTO> matchingProperties = searchByLondonAreaCode(areacode);
+        Double total = Double.valueOf(0.0);
+
+        if(matchingProperties.size() == 0){
+            return total;
+        }
+
+        for (PropertyDTO property : matchingProperties) {
+            total = total + property.getSizeBySqrFoot();
+        }
+
+        return total/matchingProperties.size();
+
+    }
+
+    private List<PropertyDTO> searchByLondonAreaCode(String areacode) {
+        List<PropertyDTO> searchResults = new ArrayList<>();
+        List<PropertyDTO> propertyDTOList = fileHandler.read();
+
+        for (PropertyDTO propertyDTO : propertyDTOList) {
+            String postcode = propertyDTO.getAddress().getPostcode();
+
+            // Check if the postcode starts with the target area code
+            if (postcode.toUpperCase().startsWith(areacode.toUpperCase() + " ")) {
+                searchResults.add(propertyDTO);
+            }
+        }
+
+        return searchResults;
     }
 
     private void checkId(Integer id) {
