@@ -50,19 +50,19 @@ public class PropertyService {
         }
     }
 
-    public Double getAverageSqrFootPrice(String areacode) {
+    public String getAverageSqrFootPrice(String areacode) {
         List<PropertyDTO> matchingProperties = searchByLondonAreaCode(areacode);
         Double total = Double.valueOf(0.0);
 
         if(matchingProperties.size() == 0){
-            return total;
+            return "No postcodes with area code " + areacode;
         }
 
         for (PropertyDTO property : matchingProperties) {
             total = total + property.getSizeBySqrFoot();
         }
 
-        return total/matchingProperties.size();
+        return String.valueOf(total/matchingProperties.size());
 
     }
 

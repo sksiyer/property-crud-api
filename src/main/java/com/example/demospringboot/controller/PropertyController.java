@@ -35,7 +35,7 @@ public class PropertyController {
     }
 
     @GetMapping("/areacode/{areacode}/average-sqrfoot-price")
-    public Double getAverageSqrFootPrice(@PathVariable String areacode){
+    public String getAverageSqrFootPrice(@PathVariable String areacode){
         return service.getAverageSqrFootPrice(areacode);
     }
 

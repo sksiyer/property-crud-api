@@ -6587,5 +6587,6605 @@
     "noOfBedrooms": 4,
     "sizeBySqrFoot": 2434.18,
     "purchasePrice": 646440.02
+  },
+  {
+    "id": 600,
+    "address": {
+      "houseNumber": "4480",
+      "streetName": "Little Divide",
+      "postcode": "SE15 7UD"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 898.58,
+    "purchasePrice": 234425.99
+  },
+  {
+    "id": 601,
+    "address": {
+      "houseNumber": "0110",
+      "streetName": "Berna Brooks",
+      "postcode": "EC7 1ZN"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2628.5,
+    "purchasePrice": 931077.85
+  },
+  {
+    "id": 602,
+    "address": {
+      "houseNumber": "942",
+      "streetName": "Feest Union",
+      "postcode": "SW8 2IR"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2029.24,
+    "purchasePrice": 216124.81
+  },
+  {
+    "id": 603,
+    "address": {
+      "houseNumber": "97687",
+      "streetName": "Genaro Village",
+      "postcode": "NW3 1IZ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2520.37,
+    "purchasePrice": 752351.73
+  },
+  {
+    "id": 604,
+    "address": {
+      "houseNumber": "7955",
+      "streetName": "Porfirio Camp",
+      "postcode": "KT15 3SW"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1769.61,
+    "purchasePrice": 559324.78
+  },
+  {
+    "id": 605,
+    "address": {
+      "houseNumber": "12478",
+      "streetName": "Kohler Mountain",
+      "postcode": "NW3 6FD"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1097.14,
+    "purchasePrice": 841550.93
+  },
+  {
+    "id": 606,
+    "address": {
+      "houseNumber": "99595",
+      "streetName": "Joseph Throughway",
+      "postcode": "EC12 8PK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2786.23,
+    "purchasePrice": 346386.62
+  },
+  {
+    "id": 607,
+    "address": {
+      "houseNumber": "8717",
+      "streetName": "Keith Lodge",
+      "postcode": "N13 5BT"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1578.63,
+    "purchasePrice": 423112.44
+  },
+  {
+    "id": 608,
+    "address": {
+      "houseNumber": "05067",
+      "streetName": "Wallace Squares",
+      "postcode": "WC9 5UZ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2087.76,
+    "purchasePrice": 475653.40
+  },
+  {
+    "id": 609,
+    "address": {
+      "houseNumber": "097",
+      "streetName": "Pearle Springs",
+      "postcode": "WC11 2VO"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1664.83,
+    "purchasePrice": 840034.00
+  },
+  {
+    "id": 610,
+    "address": {
+      "houseNumber": "4764",
+      "streetName": "Deckow Isle",
+      "postcode": "N9 3KZ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 846.59,
+    "purchasePrice": 411910.94
+  },
+  {
+    "id": 611,
+    "address": {
+      "houseNumber": "793",
+      "streetName": "Nolan Crest",
+      "postcode": "EC16 8YX"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 709.93,
+    "purchasePrice": 741680.48
+  },
+  {
+    "id": 612,
+    "address": {
+      "houseNumber": "4019",
+      "streetName": "Mohr Points",
+      "postcode": "NW3 6OY"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1847.62,
+    "purchasePrice": 129658.16
+  },
+  {
+    "id": 613,
+    "address": {
+      "houseNumber": "80919",
+      "streetName": "Heathcote Meadows",
+      "postcode": "SW10 4RG"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 503.08,
+    "purchasePrice": 564250.58
+  },
+  {
+    "id": 614,
+    "address": {
+      "houseNumber": "678",
+      "streetName": "Medhurst Spur",
+      "postcode": "EC12 7RM"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 579.55,
+    "purchasePrice": 225570.68
+  },
+  {
+    "id": 615,
+    "address": {
+      "houseNumber": "7761",
+      "streetName": "Nicolas Island",
+      "postcode": "E12 7MY"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1369.19,
+    "purchasePrice": 361408.39
+  },
+  {
+    "id": 616,
+    "address": {
+      "houseNumber": "9844",
+      "streetName": "Dooley Field",
+      "postcode": "TW18 3PG"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 714.23,
+    "purchasePrice": 829437.24
+  },
+  {
+    "id": 617,
+    "address": {
+      "houseNumber": "4818",
+      "streetName": "Cordie Tunnel",
+      "postcode": "KT12 9UV"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 555.33,
+    "purchasePrice": 604165.94
+  },
+  {
+    "id": 618,
+    "address": {
+      "houseNumber": "6720",
+      "streetName": "Leannon Haven",
+      "postcode": "E8 8HO"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2374.76,
+    "purchasePrice": 664231.52
+  },
+  {
+    "id": 619,
+    "address": {
+      "houseNumber": "06948",
+      "streetName": "Haley Garden",
+      "postcode": "SE11 4QW"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2119.06,
+    "purchasePrice": 863614.63
+  },
+  {
+    "id": 620,
+    "address": {
+      "houseNumber": "9159",
+      "streetName": "Shana Islands",
+      "postcode": "EC14 0CG"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 922.37,
+    "purchasePrice": 309342.90
+  },
+  {
+    "id": 621,
+    "address": {
+      "houseNumber": "7823",
+      "streetName": "Muller Stravenue",
+      "postcode": "WC9 3WH"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1595.03,
+    "purchasePrice": 249173.71
+  },
+  {
+    "id": 622,
+    "address": {
+      "houseNumber": "06325",
+      "streetName": "Walker Alley",
+      "postcode": "TW7 8PD"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1393.56,
+    "purchasePrice": 967364.79
+  },
+  {
+    "id": 623,
+    "address": {
+      "houseNumber": "65100",
+      "streetName": "Rosina Islands",
+      "postcode": "TW5 8FO"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1780.18,
+    "purchasePrice": 132202.39
+  },
+  {
+    "id": 624,
+    "address": {
+      "houseNumber": "77483",
+      "streetName": "Gutmann Spring",
+      "postcode": "NW9 2MG"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1072.53,
+    "purchasePrice": 695078.80
+  },
+  {
+    "id": 625,
+    "address": {
+      "houseNumber": "845",
+      "streetName": "Olson Wells",
+      "postcode": "SW10 5WV"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1371.89,
+    "purchasePrice": 300309.21
+  },
+  {
+    "id": 626,
+    "address": {
+      "houseNumber": "403",
+      "streetName": "Shirleen Place",
+      "postcode": "SE11 6EN"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 866.71,
+    "purchasePrice": 713246.53
+  },
+  {
+    "id": 627,
+    "address": {
+      "houseNumber": "605",
+      "streetName": "Feil Crest",
+      "postcode": "N1 0BS"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 573.66,
+    "purchasePrice": 759351.92
+  },
+  {
+    "id": 628,
+    "address": {
+      "houseNumber": "9570",
+      "streetName": "Luettgen Corners",
+      "postcode": "KT14 0RA"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1334.09,
+    "purchasePrice": 556099.63
+  },
+  {
+    "id": 629,
+    "address": {
+      "houseNumber": "553",
+      "streetName": "Darrell Mills",
+      "postcode": "KT17 6YE"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 956.78,
+    "purchasePrice": 633348.63
+  },
+  {
+    "id": 630,
+    "address": {
+      "houseNumber": "859",
+      "streetName": "Carlo Unions",
+      "postcode": "SE5 0DG"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2415.49,
+    "purchasePrice": 115482.24
+  },
+  {
+    "id": 631,
+    "address": {
+      "houseNumber": "38070",
+      "streetName": "Schoen Trace",
+      "postcode": "N6 2DN"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2212.07,
+    "purchasePrice": 257452.56
+  },
+  {
+    "id": 632,
+    "address": {
+      "houseNumber": "8164",
+      "streetName": "Miguel Fork",
+      "postcode": "WC11 3BX"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1138.06,
+    "purchasePrice": 640507.19
+  },
+  {
+    "id": 633,
+    "address": {
+      "houseNumber": "988",
+      "streetName": "Kilback River",
+      "postcode": "SE5 3JC"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 560.2,
+    "purchasePrice": 846566.86
+  },
+  {
+    "id": 634,
+    "address": {
+      "houseNumber": "3970",
+      "streetName": "Jimmy Roads",
+      "postcode": "E10 8RC"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2012.02,
+    "purchasePrice": 932579.51
+  },
+  {
+    "id": 635,
+    "address": {
+      "houseNumber": "4295",
+      "streetName": "Maurita Spur",
+      "postcode": "E14 2BU"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 635.21,
+    "purchasePrice": 321106.92
+  },
+  {
+    "id": 636,
+    "address": {
+      "houseNumber": "161",
+      "streetName": "Gonzalo Vista",
+      "postcode": "KT12 8WK"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2940.3,
+    "purchasePrice": 236999.94
+  },
+  {
+    "id": 637,
+    "address": {
+      "houseNumber": "2087",
+      "streetName": "Shandra Lodge",
+      "postcode": "EC8 5OT"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 680.76,
+    "purchasePrice": 370319.60
+  },
+  {
+    "id": 638,
+    "address": {
+      "houseNumber": "576",
+      "streetName": "Tyrone Path",
+      "postcode": "N12 9FJ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2215.7,
+    "purchasePrice": 281162.07
+  },
+  {
+    "id": 639,
+    "address": {
+      "houseNumber": "3027",
+      "streetName": "Bernier Points",
+      "postcode": "TW3 1OU"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1404.52,
+    "purchasePrice": 722657.49
+  },
+  {
+    "id": 640,
+    "address": {
+      "houseNumber": "66710",
+      "streetName": "Leannon Mount",
+      "postcode": "EC10 7PI"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 891.72,
+    "purchasePrice": 671901.32
+  },
+  {
+    "id": 641,
+    "address": {
+      "houseNumber": "55785",
+      "streetName": "Heidenreich Station",
+      "postcode": "NW11 5ZB"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1480.32,
+    "purchasePrice": 159906.12
+  },
+  {
+    "id": 642,
+    "address": {
+      "houseNumber": "032",
+      "streetName": "Welch Springs",
+      "postcode": "TW10 4VD"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1557.05,
+    "purchasePrice": 768456.05
+  },
+  {
+    "id": 643,
+    "address": {
+      "houseNumber": "595",
+      "streetName": "Rene Coves",
+      "postcode": "EC5 3RK"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1212.69,
+    "purchasePrice": 830010.57
+  },
+  {
+    "id": 644,
+    "address": {
+      "houseNumber": "7560",
+      "streetName": "Blanda Trail",
+      "postcode": "TW5 2OY"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1184.88,
+    "purchasePrice": 220733.71
+  },
+  {
+    "id": 645,
+    "address": {
+      "houseNumber": "546",
+      "streetName": "Jewel Mountains",
+      "postcode": "EC9 2CO"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 756.16,
+    "purchasePrice": 565039.73
+  },
+  {
+    "id": 646,
+    "address": {
+      "houseNumber": "056",
+      "streetName": "Hayden Views",
+      "postcode": "SW10 5TD"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1881.17,
+    "purchasePrice": 135045.87
+  },
+  {
+    "id": 647,
+    "address": {
+      "houseNumber": "4417",
+      "streetName": "Arletha Loaf",
+      "postcode": "NW12 7OP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2557.58,
+    "purchasePrice": 306190.63
+  },
+  {
+    "id": 648,
+    "address": {
+      "houseNumber": "0979",
+      "streetName": "Alan Parks",
+      "postcode": "E18 8RB"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2173.58,
+    "purchasePrice": 942671.66
+  },
+  {
+    "id": 649,
+    "address": {
+      "houseNumber": "95694",
+      "streetName": "Samuel Knolls",
+      "postcode": "NW2 5SG"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1580.6,
+    "purchasePrice": 459633.11
+  },
+  {
+    "id": 650,
+    "address": {
+      "houseNumber": "75229",
+      "streetName": "Nitzsche Motorway",
+      "postcode": "WC5 6YE"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 676.52,
+    "purchasePrice": 178903.16
+  },
+  {
+    "id": 651,
+    "address": {
+      "houseNumber": "1815",
+      "streetName": "Jonah Highway",
+      "postcode": "E8 2NM"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 827.84,
+    "purchasePrice": 747818.23
+  },
+  {
+    "id": 652,
+    "address": {
+      "houseNumber": "092",
+      "streetName": "Lakin Village",
+      "postcode": "E15 8EE"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 753.57,
+    "purchasePrice": 736684.59
+  },
+  {
+    "id": 653,
+    "address": {
+      "houseNumber": "0245",
+      "streetName": "Cary Shore",
+      "postcode": "E18 9WH"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2743.05,
+    "purchasePrice": 212576.23
+  },
+  {
+    "id": 654,
+    "address": {
+      "houseNumber": "9182",
+      "streetName": "Opal Plaza",
+      "postcode": "SW7 0MN"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 606.78,
+    "purchasePrice": 180642.95
+  },
+  {
+    "id": 655,
+    "address": {
+      "houseNumber": "616",
+      "streetName": "Zane Fork",
+      "postcode": "TW4 3MU"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1194.72,
+    "purchasePrice": 573289.59
+  },
+  {
+    "id": 656,
+    "address": {
+      "houseNumber": "8728",
+      "streetName": "Chad Radial",
+      "postcode": "E14 8QU"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 896.1,
+    "purchasePrice": 846666.03
+  },
+  {
+    "id": 657,
+    "address": {
+      "houseNumber": "04042",
+      "streetName": "Altenwerth Crescent",
+      "postcode": "NW17 3ZM"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1077.67,
+    "purchasePrice": 912348.34
+  },
+  {
+    "id": 658,
+    "address": {
+      "houseNumber": "876",
+      "streetName": "Roscoe Parkway",
+      "postcode": "NW3 7MZ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1458.68,
+    "purchasePrice": 241492.84
+  },
+  {
+    "id": 659,
+    "address": {
+      "houseNumber": "7165",
+      "streetName": "Bartell Crest",
+      "postcode": "EC11 4XX"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2350.1,
+    "purchasePrice": 364726.36
+  },
+  {
+    "id": 660,
+    "address": {
+      "houseNumber": "0849",
+      "streetName": "Bradtke Road",
+      "postcode": "KT12 5ZH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1374.24,
+    "purchasePrice": 907695.55
+  },
+  {
+    "id": 661,
+    "address": {
+      "houseNumber": "1301",
+      "streetName": "McCullough Track",
+      "postcode": "NW10 6BG"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2008.11,
+    "purchasePrice": 153893.59
+  },
+  {
+    "id": 662,
+    "address": {
+      "houseNumber": "351",
+      "streetName": "Pouros Canyon",
+      "postcode": "NW15 7DM"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 709.48,
+    "purchasePrice": 411856.29
+  },
+  {
+    "id": 663,
+    "address": {
+      "houseNumber": "83731",
+      "streetName": "Beahan Turnpike",
+      "postcode": "E18 5YP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2133.42,
+    "purchasePrice": 507685.11
+  },
+  {
+    "id": 664,
+    "address": {
+      "houseNumber": "62090",
+      "streetName": "Joella Park",
+      "postcode": "E6 8CC"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1139.58,
+    "purchasePrice": 965429.38
+  },
+  {
+    "id": 665,
+    "address": {
+      "houseNumber": "44266",
+      "streetName": "Considine Cove",
+      "postcode": "E9 1FD"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 756.42,
+    "purchasePrice": 487489.01
+  },
+  {
+    "id": 666,
+    "address": {
+      "houseNumber": "8214",
+      "streetName": "Toby Garden",
+      "postcode": "TW9 7ZB"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 550.8,
+    "purchasePrice": 405505.81
+  },
+  {
+    "id": 667,
+    "address": {
+      "houseNumber": "864",
+      "streetName": "Tandy Isle",
+      "postcode": "N17 5OY"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2170.75,
+    "purchasePrice": 477814.98
+  },
+  {
+    "id": 668,
+    "address": {
+      "houseNumber": "19993",
+      "streetName": "Zulauf Green",
+      "postcode": "TW6 8TI"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2069.76,
+    "purchasePrice": 235787.51
+  },
+  {
+    "id": 669,
+    "address": {
+      "houseNumber": "96077",
+      "streetName": "Anja Groves",
+      "postcode": "TW6 4TV"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2095.89,
+    "purchasePrice": 807463.42
+  },
+  {
+    "id": 670,
+    "address": {
+      "houseNumber": "765",
+      "streetName": "Moira Ways",
+      "postcode": "SW9 8LC"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1375.22,
+    "purchasePrice": 179954.86
+  },
+  {
+    "id": 671,
+    "address": {
+      "houseNumber": "8069",
+      "streetName": "Halvorson Camp",
+      "postcode": "EC5 4WZ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2096.76,
+    "purchasePrice": 970865.70
+  },
+  {
+    "id": 672,
+    "address": {
+      "houseNumber": "3636",
+      "streetName": "Heathcote Lodge",
+      "postcode": "TW18 1YP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2895.78,
+    "purchasePrice": 822381.94
+  },
+  {
+    "id": 673,
+    "address": {
+      "houseNumber": "795",
+      "streetName": "Gutkowski Dam",
+      "postcode": "SE5 6WH"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 596.92,
+    "purchasePrice": 444334.57
+  },
+  {
+    "id": 674,
+    "address": {
+      "houseNumber": "077",
+      "streetName": "Kreiger Pine",
+      "postcode": "KT9 4JU"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2346.43,
+    "purchasePrice": 700774.35
+  },
+  {
+    "id": 675,
+    "address": {
+      "houseNumber": "67324",
+      "streetName": "Gale Ferry",
+      "postcode": "WC15 9RT"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1980.54,
+    "purchasePrice": 817066.79
+  },
+  {
+    "id": 676,
+    "address": {
+      "houseNumber": "01156",
+      "streetName": "Heaney Brooks",
+      "postcode": "NW17 2LB"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1688.4,
+    "purchasePrice": 841314.49
+  },
+  {
+    "id": 677,
+    "address": {
+      "houseNumber": "4977",
+      "streetName": "Marks Summit",
+      "postcode": "E11 4RB"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1932.08,
+    "purchasePrice": 964647.66
+  },
+  {
+    "id": 678,
+    "address": {
+      "houseNumber": "1056",
+      "streetName": "Waters Parkways",
+      "postcode": "N14 8NM"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1039.59,
+    "purchasePrice": 981208.43
+  },
+  {
+    "id": 679,
+    "address": {
+      "houseNumber": "211",
+      "streetName": "Dach Mountains",
+      "postcode": "NW13 7BI"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2910.36,
+    "purchasePrice": 148797.10
+  },
+  {
+    "id": 680,
+    "address": {
+      "houseNumber": "8753",
+      "streetName": "Green Freeway",
+      "postcode": "EC11 8NK"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2637.02,
+    "purchasePrice": 322820.07
+  },
+  {
+    "id": 681,
+    "address": {
+      "houseNumber": "40475",
+      "streetName": "Hayes Wells",
+      "postcode": "WC11 4XI"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1552.23,
+    "purchasePrice": 180928.67
+  },
+  {
+    "id": 682,
+    "address": {
+      "houseNumber": "80067",
+      "streetName": "Waelchi Island",
+      "postcode": "TW10 8MU"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 668.15,
+    "purchasePrice": 876462.60
+  },
+  {
+    "id": 683,
+    "address": {
+      "houseNumber": "8243",
+      "streetName": "Michael Streets",
+      "postcode": "SW17 6UN"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 615.54,
+    "purchasePrice": 843436.44
+  },
+  {
+    "id": 684,
+    "address": {
+      "houseNumber": "760",
+      "streetName": "Pollich Valleys",
+      "postcode": "NW14 2ZF"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1387.19,
+    "purchasePrice": 578419.13
+  },
+  {
+    "id": 685,
+    "address": {
+      "houseNumber": "7834",
+      "streetName": "Leah Burgs",
+      "postcode": "KT15 5FU"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2922.78,
+    "purchasePrice": 612542.46
+  },
+  {
+    "id": 686,
+    "address": {
+      "houseNumber": "920",
+      "streetName": "Legros Stream",
+      "postcode": "TW3 4CS"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1886.19,
+    "purchasePrice": 855927.83
+  },
+  {
+    "id": 687,
+    "address": {
+      "houseNumber": "763",
+      "streetName": "Leora Lodge",
+      "postcode": "KT7 7GT"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1499.58,
+    "purchasePrice": 202028.37
+  },
+  {
+    "id": 688,
+    "address": {
+      "houseNumber": "38541",
+      "streetName": "Daine Courts",
+      "postcode": "SE11 1GT"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1279.14,
+    "purchasePrice": 270272.71
+  },
+  {
+    "id": 689,
+    "address": {
+      "houseNumber": "6678",
+      "streetName": "Davis Walks",
+      "postcode": "N10 4YM"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1924.54,
+    "purchasePrice": 862736.60
+  },
+  {
+    "id": 690,
+    "address": {
+      "houseNumber": "81567",
+      "streetName": "Vince Springs",
+      "postcode": "KT9 6AQ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2244.02,
+    "purchasePrice": 662742.44
+  },
+  {
+    "id": 691,
+    "address": {
+      "houseNumber": "765",
+      "streetName": "Adriene Gateway",
+      "postcode": "KT10 6LY"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2348.78,
+    "purchasePrice": 862464.51
+  },
+  {
+    "id": 692,
+    "address": {
+      "houseNumber": "3452",
+      "streetName": "Joaquina Oval",
+      "postcode": "N8 4LP"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1004.28,
+    "purchasePrice": 600476.14
+  },
+  {
+    "id": 693,
+    "address": {
+      "houseNumber": "1752",
+      "streetName": "Mireille Extension",
+      "postcode": "KT16 8NY"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2141.92,
+    "purchasePrice": 942847.38
+  },
+  {
+    "id": 694,
+    "address": {
+      "houseNumber": "879",
+      "streetName": "Sandy Burg",
+      "postcode": "EC9 4QJ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1324.79,
+    "purchasePrice": 451685.24
+  },
+  {
+    "id": 695,
+    "address": {
+      "houseNumber": "170",
+      "streetName": "Sauer Ford",
+      "postcode": "EC12 3AB"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 627.67,
+    "purchasePrice": 287139.25
+  },
+  {
+    "id": 696,
+    "address": {
+      "houseNumber": "39444",
+      "streetName": "Lakin Cliff",
+      "postcode": "N15 3VZ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2038.21,
+    "purchasePrice": 603125.98
+  },
+  {
+    "id": 697,
+    "address": {
+      "houseNumber": "74467",
+      "streetName": "Jamel Village",
+      "postcode": "SW16 0HM"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2114.48,
+    "purchasePrice": 762571.37
+  },
+  {
+    "id": 698,
+    "address": {
+      "houseNumber": "64845",
+      "streetName": "Dewayne Lock",
+      "postcode": "NW4 2YT"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2542.34,
+    "purchasePrice": 903931.78
+  },
+  {
+    "id": 699,
+    "address": {
+      "houseNumber": "382",
+      "streetName": "Prince Extensions",
+      "postcode": "KT14 5BM"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1408.81,
+    "purchasePrice": 426194.68
+  },
+  {
+    "id": 700,
+    "address": {
+      "houseNumber": "255",
+      "streetName": "Ela Lake",
+      "postcode": "E8 5XP"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1099.96,
+    "purchasePrice": 271980.84
+  },
+  {
+    "id": 701,
+    "address": {
+      "houseNumber": "8386",
+      "streetName": "Becki Valley",
+      "postcode": "KT12 2NG"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2002.41,
+    "purchasePrice": 593994.41
+  },
+  {
+    "id": 702,
+    "address": {
+      "houseNumber": "6347",
+      "streetName": "Bins Field",
+      "postcode": "E10 0RO"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1112.4,
+    "purchasePrice": 140512.83
+  },
+  {
+    "id": 703,
+    "address": {
+      "houseNumber": "4781",
+      "streetName": "Batz Estates",
+      "postcode": "TW18 0TJ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1138.16,
+    "purchasePrice": 171456.90
+  },
+  {
+    "id": 704,
+    "address": {
+      "houseNumber": "60074",
+      "streetName": "Adalberto Junctions",
+      "postcode": "KT9 8FZ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1054.89,
+    "purchasePrice": 252159.18
+  },
+  {
+    "id": 705,
+    "address": {
+      "houseNumber": "483",
+      "streetName": "Mayer Orchard",
+      "postcode": "SW16 8NB"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1951.1,
+    "purchasePrice": 668891.04
+  },
+  {
+    "id": 706,
+    "address": {
+      "houseNumber": "28750",
+      "streetName": "Lisha Oval",
+      "postcode": "SW9 3BW"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1295.84,
+    "purchasePrice": 342401.00
+  },
+  {
+    "id": 707,
+    "address": {
+      "houseNumber": "2202",
+      "streetName": "Kuhn Mission",
+      "postcode": "SE13 6EV"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1036.02,
+    "purchasePrice": 147853.66
+  },
+  {
+    "id": 708,
+    "address": {
+      "houseNumber": "9885",
+      "streetName": "Hilll Parkway",
+      "postcode": "NW5 5FZ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1212.24,
+    "purchasePrice": 913999.52
+  },
+  {
+    "id": 709,
+    "address": {
+      "houseNumber": "18023",
+      "streetName": "Melvin Road",
+      "postcode": "SE8 2FT"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1891.18,
+    "purchasePrice": 681265.71
+  },
+  {
+    "id": 710,
+    "address": {
+      "houseNumber": "973",
+      "streetName": "Summer Trail",
+      "postcode": "NW13 8NT"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2492.89,
+    "purchasePrice": 714217.75
+  },
+  {
+    "id": 711,
+    "address": {
+      "houseNumber": "0727",
+      "streetName": "Cummerata Burgs",
+      "postcode": "WC11 0LE"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 539.28,
+    "purchasePrice": 561523.54
+  },
+  {
+    "id": 712,
+    "address": {
+      "houseNumber": "81898",
+      "streetName": "Erline Mountains",
+      "postcode": "SE15 7EF"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2862.52,
+    "purchasePrice": 123161.51
+  },
+  {
+    "id": 713,
+    "address": {
+      "houseNumber": "8651",
+      "streetName": "Tiffaney Union",
+      "postcode": "EC10 1XF"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1561.34,
+    "purchasePrice": 122190.02
+  },
+  {
+    "id": 714,
+    "address": {
+      "houseNumber": "80788",
+      "streetName": "Fisher Canyon",
+      "postcode": "N12 6IX"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2808.31,
+    "purchasePrice": 609029.93
+  },
+  {
+    "id": 715,
+    "address": {
+      "houseNumber": "4901",
+      "streetName": "Ike Divide",
+      "postcode": "SE17 0UE"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1599.69,
+    "purchasePrice": 668129.00
+  },
+  {
+    "id": 716,
+    "address": {
+      "houseNumber": "544",
+      "streetName": "Boyle Field",
+      "postcode": "EC2 5AG"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2725.21,
+    "purchasePrice": 798204.24
+  },
+  {
+    "id": 717,
+    "address": {
+      "houseNumber": "57497",
+      "streetName": "Boris Ford",
+      "postcode": "SE8 7XM"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 923.71,
+    "purchasePrice": 165791.04
+  },
+  {
+    "id": 718,
+    "address": {
+      "houseNumber": "3981",
+      "streetName": "Ullrich Shore",
+      "postcode": "E7 2WN"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2350.19,
+    "purchasePrice": 893949.40
+  },
+  {
+    "id": 719,
+    "address": {
+      "houseNumber": "8078",
+      "streetName": "Julius Avenue",
+      "postcode": "EC11 5YA"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1277.3,
+    "purchasePrice": 299742.37
+  },
+  {
+    "id": 720,
+    "address": {
+      "houseNumber": "645",
+      "streetName": "Shanahan Ridge",
+      "postcode": "NW4 5NQ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 942.42,
+    "purchasePrice": 124882.39
+  },
+  {
+    "id": 721,
+    "address": {
+      "houseNumber": "38764",
+      "streetName": "August Fork",
+      "postcode": "KT8 5ZC"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2154.83,
+    "purchasePrice": 774872.52
+  },
+  {
+    "id": 722,
+    "address": {
+      "houseNumber": "48813",
+      "streetName": "Schoen Unions",
+      "postcode": "KT8 9FK"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 919.83,
+    "purchasePrice": 909143.86
+  },
+  {
+    "id": 723,
+    "address": {
+      "houseNumber": "77466",
+      "streetName": "Shayla River",
+      "postcode": "TW8 8XT"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1442.65,
+    "purchasePrice": 927760.97
+  },
+  {
+    "id": 724,
+    "address": {
+      "houseNumber": "82470",
+      "streetName": "Predovic Key",
+      "postcode": "TW12 2AN"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2576.57,
+    "purchasePrice": 909594.26
+  },
+  {
+    "id": 725,
+    "address": {
+      "houseNumber": "244",
+      "streetName": "Jeffery Shore",
+      "postcode": "EC11 5DH"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2322.2,
+    "purchasePrice": 984820.82
+  },
+  {
+    "id": 726,
+    "address": {
+      "houseNumber": "534",
+      "streetName": "Celeste Summit",
+      "postcode": "KT4 0WU"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1780.42,
+    "purchasePrice": 789212.30
+  },
+  {
+    "id": 727,
+    "address": {
+      "houseNumber": "573",
+      "streetName": "Barrows Via",
+      "postcode": "EC6 9MG"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1784.46,
+    "purchasePrice": 186645.74
+  },
+  {
+    "id": 728,
+    "address": {
+      "houseNumber": "33707",
+      "streetName": "Windler Cove",
+      "postcode": "KT15 0UG"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2610.07,
+    "purchasePrice": 796987.75
+  },
+  {
+    "id": 729,
+    "address": {
+      "houseNumber": "41829",
+      "streetName": "Jerrod Plains",
+      "postcode": "N17 4ZW"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1085.14,
+    "purchasePrice": 309770.21
+  },
+  {
+    "id": 730,
+    "address": {
+      "houseNumber": "0883",
+      "streetName": "Jerold Valley",
+      "postcode": "SW6 8VF"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2463.17,
+    "purchasePrice": 123328.71
+  },
+  {
+    "id": 731,
+    "address": {
+      "houseNumber": "591",
+      "streetName": "Abbey Centers",
+      "postcode": "WC4 2MW"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2072.6,
+    "purchasePrice": 563688.00
+  },
+  {
+    "id": 732,
+    "address": {
+      "houseNumber": "7879",
+      "streetName": "Hermiston Island",
+      "postcode": "N7 8YK"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2024.22,
+    "purchasePrice": 702333.36
+  },
+  {
+    "id": 733,
+    "address": {
+      "houseNumber": "6340",
+      "streetName": "Greenfelder Avenue",
+      "postcode": "KT14 5FJ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2619.26,
+    "purchasePrice": 315194.88
+  },
+  {
+    "id": 734,
+    "address": {
+      "houseNumber": "02366",
+      "streetName": "Ocie Overpass",
+      "postcode": "E11 5PL"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2791.47,
+    "purchasePrice": 652086.93
+  },
+  {
+    "id": 735,
+    "address": {
+      "houseNumber": "48142",
+      "streetName": "Wesley Crossroad",
+      "postcode": "TW5 4LO"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1425.36,
+    "purchasePrice": 223914.34
+  },
+  {
+    "id": 736,
+    "address": {
+      "houseNumber": "879",
+      "streetName": "Lubowitz Cliffs",
+      "postcode": "NW18 3IH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 522.36,
+    "purchasePrice": 977869.79
+  },
+  {
+    "id": 737,
+    "address": {
+      "houseNumber": "018",
+      "streetName": "Johnny Hollow",
+      "postcode": "NW15 8UH"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1291.94,
+    "purchasePrice": 783253.48
+  },
+  {
+    "id": 738,
+    "address": {
+      "houseNumber": "83939",
+      "streetName": "Rayford Plains",
+      "postcode": "WC12 1XR"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2163.91,
+    "purchasePrice": 452798.18
+  },
+  {
+    "id": 739,
+    "address": {
+      "houseNumber": "0944",
+      "streetName": "Jeremiah Brooks",
+      "postcode": "TW9 3QR"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2736.06,
+    "purchasePrice": 766723.30
+  },
+  {
+    "id": 740,
+    "address": {
+      "houseNumber": "083",
+      "streetName": "Dee Turnpike",
+      "postcode": "SW16 2SR"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 991.05,
+    "purchasePrice": 550159.34
+  },
+  {
+    "id": 741,
+    "address": {
+      "houseNumber": "820",
+      "streetName": "Cathern Path",
+      "postcode": "SW17 1ZJ"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1859.19,
+    "purchasePrice": 774273.72
+  },
+  {
+    "id": 742,
+    "address": {
+      "houseNumber": "24401",
+      "streetName": "Bok Meadow",
+      "postcode": "TW14 1OH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2113.03,
+    "purchasePrice": 525760.55
+  },
+  {
+    "id": 743,
+    "address": {
+      "houseNumber": "89239",
+      "streetName": "Wilton Village",
+      "postcode": "N7 3UA"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1291.54,
+    "purchasePrice": 229546.88
+  },
+  {
+    "id": 744,
+    "address": {
+      "houseNumber": "030",
+      "streetName": "Marcelino Circle",
+      "postcode": "N7 4IX"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2327.55,
+    "purchasePrice": 761620.64
+  },
+  {
+    "id": 745,
+    "address": {
+      "houseNumber": "4852",
+      "streetName": "Rosenbaum Motorway",
+      "postcode": "N9 1WM"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 902.59,
+    "purchasePrice": 829476.45
+  },
+  {
+    "id": 746,
+    "address": {
+      "houseNumber": "410",
+      "streetName": "Gene Heights",
+      "postcode": "NW2 1WT"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1391.49,
+    "purchasePrice": 192493.41
+  },
+  {
+    "id": 747,
+    "address": {
+      "houseNumber": "141",
+      "streetName": "Cristina Vista",
+      "postcode": "EC4 9LV"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2299.91,
+    "purchasePrice": 604376.19
+  },
+  {
+    "id": 748,
+    "address": {
+      "houseNumber": "7266",
+      "streetName": "Elvia Ford",
+      "postcode": "TW6 1SH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2779.85,
+    "purchasePrice": 658765.65
+  },
+  {
+    "id": 749,
+    "address": {
+      "houseNumber": "42081",
+      "streetName": "Elyse Road",
+      "postcode": "KT2 4YK"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2572.46,
+    "purchasePrice": 489810.25
+  },
+  {
+    "id": 750,
+    "address": {
+      "houseNumber": "011",
+      "streetName": "Jolene Track",
+      "postcode": "SE11 0TW"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2110.41,
+    "purchasePrice": 802991.36
+  },
+  {
+    "id": 751,
+    "address": {
+      "houseNumber": "19230",
+      "streetName": "Toy Knolls",
+      "postcode": "SW12 5FX"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2718.8,
+    "purchasePrice": 989896.33
+  },
+  {
+    "id": 752,
+    "address": {
+      "houseNumber": "1090",
+      "streetName": "Jakubowski Dale",
+      "postcode": "E18 5LZ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1972.88,
+    "purchasePrice": 664100.73
+  },
+  {
+    "id": 753,
+    "address": {
+      "houseNumber": "553",
+      "streetName": "Sharell Port",
+      "postcode": "EC12 3CN"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2005.35,
+    "purchasePrice": 883758.75
+  },
+  {
+    "id": 754,
+    "address": {
+      "houseNumber": "21335",
+      "streetName": "Jackie Highway",
+      "postcode": "E12 9VM"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2340.21,
+    "purchasePrice": 555800.60
+  },
+  {
+    "id": 755,
+    "address": {
+      "houseNumber": "02415",
+      "streetName": "Hintz Cliffs",
+      "postcode": "EC13 3KB"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2110.66,
+    "purchasePrice": 600187.88
+  },
+  {
+    "id": 756,
+    "address": {
+      "houseNumber": "680",
+      "streetName": "Green Fall",
+      "postcode": "TW4 0MZ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2800.1,
+    "purchasePrice": 930478.47
+  },
+  {
+    "id": 757,
+    "address": {
+      "houseNumber": "040",
+      "streetName": "Raynor Centers",
+      "postcode": "EC15 9VF"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1561.7,
+    "purchasePrice": 397430.49
+  },
+  {
+    "id": 758,
+    "address": {
+      "houseNumber": "2698",
+      "streetName": "Marlon Summit",
+      "postcode": "SW4 0UE"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2169.63,
+    "purchasePrice": 124896.19
+  },
+  {
+    "id": 759,
+    "address": {
+      "houseNumber": "644",
+      "streetName": "Altenwerth Ford",
+      "postcode": "E15 0LI"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1220.36,
+    "purchasePrice": 923071.69
+  },
+  {
+    "id": 760,
+    "address": {
+      "houseNumber": "037",
+      "streetName": "Jake Creek",
+      "postcode": "SW3 4MK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 563.16,
+    "purchasePrice": 242591.72
+  },
+  {
+    "id": 761,
+    "address": {
+      "houseNumber": "922",
+      "streetName": "Lesley Turnpike",
+      "postcode": "WC1 4TV"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1760.06,
+    "purchasePrice": 486370.93
+  },
+  {
+    "id": 762,
+    "address": {
+      "houseNumber": "884",
+      "streetName": "Cormier Station",
+      "postcode": "EC7 0UK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 640.89,
+    "purchasePrice": 137765.87
+  },
+  {
+    "id": 763,
+    "address": {
+      "houseNumber": "437",
+      "streetName": "Larkin Rue",
+      "postcode": "TW5 1FX"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1492.46,
+    "purchasePrice": 927563.81
+  },
+  {
+    "id": 764,
+    "address": {
+      "houseNumber": "7725",
+      "streetName": "Marti Island",
+      "postcode": "TW10 7TN"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 890.68,
+    "purchasePrice": 520710.69
+  },
+  {
+    "id": 765,
+    "address": {
+      "houseNumber": "29045",
+      "streetName": "Williamson Roads",
+      "postcode": "E13 1CD"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1221.08,
+    "purchasePrice": 577769.10
+  },
+  {
+    "id": 766,
+    "address": {
+      "houseNumber": "36078",
+      "streetName": "Hammes Mills",
+      "postcode": "SE2 2QZ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1816.91,
+    "purchasePrice": 181305.80
+  },
+  {
+    "id": 767,
+    "address": {
+      "houseNumber": "828",
+      "streetName": "Krajcik Cove",
+      "postcode": "EC4 2YK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2665.36,
+    "purchasePrice": 939218.94
+  },
+  {
+    "id": 768,
+    "address": {
+      "houseNumber": "198",
+      "streetName": "Simonis Camp",
+      "postcode": "E3 5RL"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2695.77,
+    "purchasePrice": 740354.70
+  },
+  {
+    "id": 769,
+    "address": {
+      "houseNumber": "562",
+      "streetName": "Everett Walk",
+      "postcode": "SW16 3YC"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2377.56,
+    "purchasePrice": 248611.41
+  },
+  {
+    "id": 770,
+    "address": {
+      "houseNumber": "613",
+      "streetName": "Alan Summit",
+      "postcode": "N13 8ZA"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 645.82,
+    "purchasePrice": 730012.34
+  },
+  {
+    "id": 771,
+    "address": {
+      "houseNumber": "5666",
+      "streetName": "Kessler Row",
+      "postcode": "N7 8BY"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 655.53,
+    "purchasePrice": 743748.48
+  },
+  {
+    "id": 772,
+    "address": {
+      "houseNumber": "03990",
+      "streetName": "Hackett Crescent",
+      "postcode": "SW3 0CA"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2718.21,
+    "purchasePrice": 531269.61
+  },
+  {
+    "id": 773,
+    "address": {
+      "houseNumber": "42110",
+      "streetName": "Jeanne Islands",
+      "postcode": "SW9 1AB"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 619.34,
+    "purchasePrice": 358403.05
+  },
+  {
+    "id": 774,
+    "address": {
+      "houseNumber": "70539",
+      "streetName": "White Radial",
+      "postcode": "NW4 2XK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2620.55,
+    "purchasePrice": 602015.39
+  },
+  {
+    "id": 775,
+    "address": {
+      "houseNumber": "820",
+      "streetName": "Schinner Centers",
+      "postcode": "KT16 3LJ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2039.18,
+    "purchasePrice": 595852.71
+  },
+  {
+    "id": 776,
+    "address": {
+      "houseNumber": "78013",
+      "streetName": "Helga Crescent",
+      "postcode": "N4 6CU"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1783.79,
+    "purchasePrice": 969983.57
+  },
+  {
+    "id": 777,
+    "address": {
+      "houseNumber": "859",
+      "streetName": "Rosenbaum Dam",
+      "postcode": "KT11 4RK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2731.9,
+    "purchasePrice": 273415.22
+  },
+  {
+    "id": 778,
+    "address": {
+      "houseNumber": "92312",
+      "streetName": "Von Corners",
+      "postcode": "SW17 0GO"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2406.72,
+    "purchasePrice": 848720.98
+  },
+  {
+    "id": 779,
+    "address": {
+      "houseNumber": "485",
+      "streetName": "Schulist Brooks",
+      "postcode": "KT12 3ZW"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1604.99,
+    "purchasePrice": 365667.14
+  },
+  {
+    "id": 780,
+    "address": {
+      "houseNumber": "185",
+      "streetName": "Padberg Valley",
+      "postcode": "SW6 2NR"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2108.95,
+    "purchasePrice": 708158.81
+  },
+  {
+    "id": 781,
+    "address": {
+      "houseNumber": "86280",
+      "streetName": "Keeling Square",
+      "postcode": "SE9 3NF"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2077.31,
+    "purchasePrice": 369703.99
+  },
+  {
+    "id": 782,
+    "address": {
+      "houseNumber": "59869",
+      "streetName": "Alejandro Islands",
+      "postcode": "WC6 9GK"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1008.78,
+    "purchasePrice": 519376.22
+  },
+  {
+    "id": 783,
+    "address": {
+      "houseNumber": "263",
+      "streetName": "Orn Heights",
+      "postcode": "N5 6XW"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 620.88,
+    "purchasePrice": 142783.95
+  },
+  {
+    "id": 784,
+    "address": {
+      "houseNumber": "469",
+      "streetName": "Willms Stravenue",
+      "postcode": "E18 6OJ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1787.18,
+    "purchasePrice": 863100.11
+  },
+  {
+    "id": 785,
+    "address": {
+      "houseNumber": "659",
+      "streetName": "Ondricka Gateway",
+      "postcode": "N11 1FP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2069.55,
+    "purchasePrice": 366196.16
+  },
+  {
+    "id": 786,
+    "address": {
+      "houseNumber": "89131",
+      "streetName": "Lenard Fall",
+      "postcode": "WC5 2WH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2773.72,
+    "purchasePrice": 418353.09
+  },
+  {
+    "id": 787,
+    "address": {
+      "houseNumber": "6734",
+      "streetName": "Rick Run",
+      "postcode": "EC3 6WZ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 502.89,
+    "purchasePrice": 324234.62
+  },
+  {
+    "id": 788,
+    "address": {
+      "houseNumber": "8006",
+      "streetName": "Rowe Park",
+      "postcode": "NW9 2RS"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2533.94,
+    "purchasePrice": 789586.11
+  },
+  {
+    "id": 789,
+    "address": {
+      "houseNumber": "238",
+      "streetName": "Kirlin Views",
+      "postcode": "SE2 1UX"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2906.16,
+    "purchasePrice": 403067.80
+  },
+  {
+    "id": 790,
+    "address": {
+      "houseNumber": "281",
+      "streetName": "Parker Walks",
+      "postcode": "EC12 6NS"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2104.63,
+    "purchasePrice": 740300.21
+  },
+  {
+    "id": 791,
+    "address": {
+      "houseNumber": "3119",
+      "streetName": "Herzog Throughway",
+      "postcode": "E18 5KH"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2013.69,
+    "purchasePrice": 684259.96
+  },
+  {
+    "id": 792,
+    "address": {
+      "houseNumber": "636",
+      "streetName": "Haley Haven",
+      "postcode": "TW11 0DA"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2314.76,
+    "purchasePrice": 692633.43
+  },
+  {
+    "id": 793,
+    "address": {
+      "houseNumber": "8505",
+      "streetName": "Delmar Manors",
+      "postcode": "N14 5AR"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 882.3,
+    "purchasePrice": 113837.41
+  },
+  {
+    "id": 794,
+    "address": {
+      "houseNumber": "0093",
+      "streetName": "Zulema Tunnel",
+      "postcode": "TW10 3OB"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1481.11,
+    "purchasePrice": 527178.84
+  },
+  {
+    "id": 795,
+    "address": {
+      "houseNumber": "8822",
+      "streetName": "Herzog Ramp",
+      "postcode": "SE7 8IX"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2139.37,
+    "purchasePrice": 888579.95
+  },
+  {
+    "id": 796,
+    "address": {
+      "houseNumber": "2851",
+      "streetName": "Berge Cliff",
+      "postcode": "N14 3JC"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2332.23,
+    "purchasePrice": 350311.35
+  },
+  {
+    "id": 797,
+    "address": {
+      "houseNumber": "98144",
+      "streetName": "Schamberger Lights",
+      "postcode": "KT11 3QG"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1566.48,
+    "purchasePrice": 953035.24
+  },
+  {
+    "id": 798,
+    "address": {
+      "houseNumber": "293",
+      "streetName": "Mosciski Freeway",
+      "postcode": "EC17 6RT"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2538.29,
+    "purchasePrice": 892988.74
+  },
+  {
+    "id": 799,
+    "address": {
+      "houseNumber": "3588",
+      "streetName": "Mee Courts",
+      "postcode": "TW15 4SJ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2026.76,
+    "purchasePrice": 274248.82
+  },
+  {
+    "id": 800,
+    "address": {
+      "houseNumber": "862",
+      "streetName": "Casper Shores",
+      "postcode": "WC17 2AD"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2760.18,
+    "purchasePrice": 468852.74
+  },
+  {
+    "id": 801,
+    "address": {
+      "houseNumber": "495",
+      "streetName": "Horace Village",
+      "postcode": "SW6 7XJ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1722.58,
+    "purchasePrice": 184841.25
+  },
+  {
+    "id": 802,
+    "address": {
+      "houseNumber": "899",
+      "streetName": "Carmelo Landing",
+      "postcode": "NW12 7GG"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2095.67,
+    "purchasePrice": 267110.31
+  },
+  {
+    "id": 803,
+    "address": {
+      "houseNumber": "90957",
+      "streetName": "Hoyt Trail",
+      "postcode": "TW5 2AT"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2614.46,
+    "purchasePrice": 319247.25
+  },
+  {
+    "id": 804,
+    "address": {
+      "houseNumber": "465",
+      "streetName": "Sauer Square",
+      "postcode": "KT5 6WP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1900.1,
+    "purchasePrice": 652196.72
+  },
+  {
+    "id": 805,
+    "address": {
+      "houseNumber": "900",
+      "streetName": "Larson Lodge",
+      "postcode": "SE13 5LU"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1250.12,
+    "purchasePrice": 367714.12
+  },
+  {
+    "id": 806,
+    "address": {
+      "houseNumber": "22839",
+      "streetName": "Wilbur Union",
+      "postcode": "E17 6JC"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 903.32,
+    "purchasePrice": 677412.68
+  },
+  {
+    "id": 807,
+    "address": {
+      "houseNumber": "213",
+      "streetName": "Borer Gardens",
+      "postcode": "WC3 2HW"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 996.94,
+    "purchasePrice": 208105.31
+  },
+  {
+    "id": 808,
+    "address": {
+      "houseNumber": "734",
+      "streetName": "Florencio Forge",
+      "postcode": "EC7 6KV"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1514.31,
+    "purchasePrice": 437628.81
+  },
+  {
+    "id": 809,
+    "address": {
+      "houseNumber": "35422",
+      "streetName": "Marquardt Keys",
+      "postcode": "NW4 0GY"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 682.13,
+    "purchasePrice": 766848.28
+  },
+  {
+    "id": 810,
+    "address": {
+      "houseNumber": "51610",
+      "streetName": "Willow Summit",
+      "postcode": "TW9 6JB"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1205.83,
+    "purchasePrice": 483819.52
+  },
+  {
+    "id": 811,
+    "address": {
+      "houseNumber": "26168",
+      "streetName": "Vina Valleys",
+      "postcode": "E18 4PQ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 864.74,
+    "purchasePrice": 127605.56
+  },
+  {
+    "id": 812,
+    "address": {
+      "houseNumber": "402",
+      "streetName": "Kreiger Centers",
+      "postcode": "SE3 3FV"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1471.58,
+    "purchasePrice": 730865.59
+  },
+  {
+    "id": 813,
+    "address": {
+      "houseNumber": "842",
+      "streetName": "Langosh Alley",
+      "postcode": "N9 4RF"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2528.39,
+    "purchasePrice": 861666.24
+  },
+  {
+    "id": 814,
+    "address": {
+      "houseNumber": "8570",
+      "streetName": "Gorczany Estates",
+      "postcode": "E17 8KF"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 597.47,
+    "purchasePrice": 470336.68
+  },
+  {
+    "id": 815,
+    "address": {
+      "houseNumber": "4484",
+      "streetName": "Keeling Mount",
+      "postcode": "EC13 1VG"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2936.18,
+    "purchasePrice": 898369.58
+  },
+  {
+    "id": 816,
+    "address": {
+      "houseNumber": "30538",
+      "streetName": "Debbra Spur",
+      "postcode": "KT2 0XH"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1601.21,
+    "purchasePrice": 599113.12
+  },
+  {
+    "id": 817,
+    "address": {
+      "houseNumber": "0049",
+      "streetName": "Justin Islands",
+      "postcode": "WC16 3VL"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1632.6,
+    "purchasePrice": 120934.34
+  },
+  {
+    "id": 818,
+    "address": {
+      "houseNumber": "9157",
+      "streetName": "Romelia Manor",
+      "postcode": "EC4 4OY"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1341.71,
+    "purchasePrice": 259594.79
+  },
+  {
+    "id": 819,
+    "address": {
+      "houseNumber": "24830",
+      "streetName": "Mante Mall",
+      "postcode": "SW10 3WA"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1355.86,
+    "purchasePrice": 342288.83
+  },
+  {
+    "id": 820,
+    "address": {
+      "houseNumber": "73384",
+      "streetName": "Clement Divide",
+      "postcode": "WC5 6PA"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2442.13,
+    "purchasePrice": 834849.28
+  },
+  {
+    "id": 821,
+    "address": {
+      "houseNumber": "85123",
+      "streetName": "Dacia Square",
+      "postcode": "E10 8CP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2595.82,
+    "purchasePrice": 563469.94
+  },
+  {
+    "id": 822,
+    "address": {
+      "houseNumber": "8621",
+      "streetName": "Juli Ferry",
+      "postcode": "SE14 8QU"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1125.54,
+    "purchasePrice": 393800.43
+  },
+  {
+    "id": 823,
+    "address": {
+      "houseNumber": "79981",
+      "streetName": "Alexis Lights",
+      "postcode": "N16 2QY"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 753.9,
+    "purchasePrice": 579217.30
+  },
+  {
+    "id": 824,
+    "address": {
+      "houseNumber": "585",
+      "streetName": "Russel Knoll",
+      "postcode": "NW6 5MR"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1795.99,
+    "purchasePrice": 648857.38
+  },
+  {
+    "id": 825,
+    "address": {
+      "houseNumber": "85564",
+      "streetName": "Collier Way",
+      "postcode": "E12 2FX"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2189.0,
+    "purchasePrice": 177132.01
+  },
+  {
+    "id": 826,
+    "address": {
+      "houseNumber": "1060",
+      "streetName": "Bayer Bypass",
+      "postcode": "WC5 6QS"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1880.73,
+    "purchasePrice": 930692.21
+  },
+  {
+    "id": 827,
+    "address": {
+      "houseNumber": "764",
+      "streetName": "Patricia Square",
+      "postcode": "N9 1TP"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2025.42,
+    "purchasePrice": 338756.81
+  },
+  {
+    "id": 828,
+    "address": {
+      "houseNumber": "7056",
+      "streetName": "Lockman Locks",
+      "postcode": "SW9 2ZV"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1293.07,
+    "purchasePrice": 593150.71
+  },
+  {
+    "id": 829,
+    "address": {
+      "houseNumber": "65085",
+      "streetName": "Gutmann Crossing",
+      "postcode": "N9 4BM"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1320.41,
+    "purchasePrice": 683022.22
+  },
+  {
+    "id": 830,
+    "address": {
+      "houseNumber": "3898",
+      "streetName": "Stracke Hills",
+      "postcode": "KT9 7RU"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1527.4,
+    "purchasePrice": 590517.32
+  },
+  {
+    "id": 831,
+    "address": {
+      "houseNumber": "418",
+      "streetName": "Jakubowski Way",
+      "postcode": "N7 3EX"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1414.08,
+    "purchasePrice": 798296.54
+  },
+  {
+    "id": 832,
+    "address": {
+      "houseNumber": "69375",
+      "streetName": "Elton Expressway",
+      "postcode": "SE16 0AZ"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2587.59,
+    "purchasePrice": 576778.07
+  },
+  {
+    "id": 833,
+    "address": {
+      "houseNumber": "3712",
+      "streetName": "Tyson Cliffs",
+      "postcode": "NW10 4WD"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2872.26,
+    "purchasePrice": 141780.67
+  },
+  {
+    "id": 834,
+    "address": {
+      "houseNumber": "0950",
+      "streetName": "Long Extension",
+      "postcode": "N8 9DJ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2021.27,
+    "purchasePrice": 279117.89
+  },
+  {
+    "id": 835,
+    "address": {
+      "houseNumber": "987",
+      "streetName": "Schmeler Overpass",
+      "postcode": "TW9 7CP"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1699.43,
+    "purchasePrice": 219406.41
+  },
+  {
+    "id": 836,
+    "address": {
+      "houseNumber": "7414",
+      "streetName": "Mueller Row",
+      "postcode": "SE1 7JP"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2325.16,
+    "purchasePrice": 316830.02
+  },
+  {
+    "id": 837,
+    "address": {
+      "houseNumber": "6966",
+      "streetName": "Renay Wells",
+      "postcode": "NW9 5ZO"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2883.89,
+    "purchasePrice": 134794.05
+  },
+  {
+    "id": 838,
+    "address": {
+      "houseNumber": "081",
+      "streetName": "Spencer Port",
+      "postcode": "EC11 1RL"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2226.08,
+    "purchasePrice": 390358.10
+  },
+  {
+    "id": 839,
+    "address": {
+      "houseNumber": "870",
+      "streetName": "Hershel Turnpike",
+      "postcode": "E5 4QZ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2555.24,
+    "purchasePrice": 353619.03
+  },
+  {
+    "id": 840,
+    "address": {
+      "houseNumber": "8806",
+      "streetName": "Kessler Passage",
+      "postcode": "EC16 6SA"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1113.53,
+    "purchasePrice": 303600.61
+  },
+  {
+    "id": 841,
+    "address": {
+      "houseNumber": "7280",
+      "streetName": "Dahlia Wells",
+      "postcode": "KT13 0RH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1886.74,
+    "purchasePrice": 857782.23
+  },
+  {
+    "id": 842,
+    "address": {
+      "houseNumber": "100",
+      "streetName": "Nitzsche Mews",
+      "postcode": "SE11 5EA"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2812.95,
+    "purchasePrice": 654386.10
+  },
+  {
+    "id": 843,
+    "address": {
+      "houseNumber": "96845",
+      "streetName": "Orn Trace",
+      "postcode": "N7 2WL"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 863.04,
+    "purchasePrice": 580220.13
+  },
+  {
+    "id": 844,
+    "address": {
+      "houseNumber": "121",
+      "streetName": "Launa Prairie",
+      "postcode": "N7 4BQ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1193.5,
+    "purchasePrice": 577932.50
+  },
+  {
+    "id": 845,
+    "address": {
+      "houseNumber": "875",
+      "streetName": "Garfield Port",
+      "postcode": "KT3 0TV"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1667.22,
+    "purchasePrice": 374450.87
+  },
+  {
+    "id": 846,
+    "address": {
+      "houseNumber": "5878",
+      "streetName": "Quitzon Rest",
+      "postcode": "N5 5ZX"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2452.37,
+    "purchasePrice": 729069.12
+  },
+  {
+    "id": 847,
+    "address": {
+      "houseNumber": "4473",
+      "streetName": "Welch Fields",
+      "postcode": "NW11 0HY"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2147.75,
+    "purchasePrice": 281454.78
+  },
+  {
+    "id": 848,
+    "address": {
+      "houseNumber": "108",
+      "streetName": "Deetta Stream",
+      "postcode": "E7 4LI"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2570.7,
+    "purchasePrice": 925210.43
+  },
+  {
+    "id": 849,
+    "address": {
+      "houseNumber": "044",
+      "streetName": "Weissnat Forges",
+      "postcode": "WC4 0LK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 939.79,
+    "purchasePrice": 798702.95
+  },
+  {
+    "id": 850,
+    "address": {
+      "houseNumber": "1750",
+      "streetName": "Cremin Crescent",
+      "postcode": "SE18 6BF"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 824.09,
+    "purchasePrice": 288445.54
+  },
+  {
+    "id": 851,
+    "address": {
+      "houseNumber": "753",
+      "streetName": "Marks Heights",
+      "postcode": "KT1 4LJ"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1339.38,
+    "purchasePrice": 288704.29
+  },
+  {
+    "id": 852,
+    "address": {
+      "houseNumber": "4025",
+      "streetName": "Reginald Valley",
+      "postcode": "KT11 1UE"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1513.46,
+    "purchasePrice": 286478.78
+  },
+  {
+    "id": 853,
+    "address": {
+      "houseNumber": "806",
+      "streetName": "Hoppe Hill",
+      "postcode": "SE5 7PS"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 529.85,
+    "purchasePrice": 249264.58
+  },
+  {
+    "id": 854,
+    "address": {
+      "houseNumber": "073",
+      "streetName": "Emile Path",
+      "postcode": "SE13 4WL"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2048.65,
+    "purchasePrice": 262627.64
+  },
+  {
+    "id": 855,
+    "address": {
+      "houseNumber": "06951",
+      "streetName": "Mayert Knolls",
+      "postcode": "SE1 4RD"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1752.51,
+    "purchasePrice": 308114.40
+  },
+  {
+    "id": 856,
+    "address": {
+      "houseNumber": "821",
+      "streetName": "Willms Mountain",
+      "postcode": "WC6 8IV"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 878.36,
+    "purchasePrice": 764465.69
+  },
+  {
+    "id": 857,
+    "address": {
+      "houseNumber": "3835",
+      "streetName": "Armand Locks",
+      "postcode": "NW4 6AD"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1355.42,
+    "purchasePrice": 549181.71
+  },
+  {
+    "id": 858,
+    "address": {
+      "houseNumber": "54614",
+      "streetName": "Langworth Row",
+      "postcode": "TW2 0JV"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1744.79,
+    "purchasePrice": 372318.88
+  },
+  {
+    "id": 859,
+    "address": {
+      "houseNumber": "869",
+      "streetName": "Libby Wells",
+      "postcode": "EC16 2YP"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1235.3,
+    "purchasePrice": 463455.52
+  },
+  {
+    "id": 860,
+    "address": {
+      "houseNumber": "5218",
+      "streetName": "Klocko Ridges",
+      "postcode": "N5 7YF"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1274.35,
+    "purchasePrice": 125931.25
+  },
+  {
+    "id": 861,
+    "address": {
+      "houseNumber": "7339",
+      "streetName": "Erik Drive",
+      "postcode": "WC5 2BY"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1199.63,
+    "purchasePrice": 164975.37
+  },
+  {
+    "id": 862,
+    "address": {
+      "houseNumber": "953",
+      "streetName": "Kunze Park",
+      "postcode": "N8 5EN"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 905.25,
+    "purchasePrice": 953894.08
+  },
+  {
+    "id": 863,
+    "address": {
+      "houseNumber": "66567",
+      "streetName": "Adolfo Mountains",
+      "postcode": "KT3 6LS"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1596.63,
+    "purchasePrice": 989292.81
+  },
+  {
+    "id": 864,
+    "address": {
+      "houseNumber": "8028",
+      "streetName": "Sanford Lane",
+      "postcode": "SE10 3VA"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2400.69,
+    "purchasePrice": 931944.84
+  },
+  {
+    "id": 865,
+    "address": {
+      "houseNumber": "46625",
+      "streetName": "Antonio Square",
+      "postcode": "E7 6WK"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1501.88,
+    "purchasePrice": 963328.87
+  },
+  {
+    "id": 866,
+    "address": {
+      "houseNumber": "568",
+      "streetName": "Terese Place",
+      "postcode": "SW12 0RT"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 880.25,
+    "purchasePrice": 716430.09
+  },
+  {
+    "id": 867,
+    "address": {
+      "houseNumber": "8732",
+      "streetName": "Grimes Light",
+      "postcode": "EC16 1WA"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 509.06,
+    "purchasePrice": 681496.41
+  },
+  {
+    "id": 868,
+    "address": {
+      "houseNumber": "8282",
+      "streetName": "Schaden Plains",
+      "postcode": "SE17 0UG"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2692.88,
+    "purchasePrice": 148452.10
+  },
+  {
+    "id": 869,
+    "address": {
+      "houseNumber": "295",
+      "streetName": "Adolph Garden",
+      "postcode": "N18 8OB"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2449.74,
+    "purchasePrice": 338232.27
+  },
+  {
+    "id": 870,
+    "address": {
+      "houseNumber": "5051",
+      "streetName": "Jay Shores",
+      "postcode": "E9 2BJ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1838.45,
+    "purchasePrice": 476385.57
+  },
+  {
+    "id": 871,
+    "address": {
+      "houseNumber": "69705",
+      "streetName": "Halvorson Neck",
+      "postcode": "SE16 7KQ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2877.92,
+    "purchasePrice": 642579.75
+  },
+  {
+    "id": 872,
+    "address": {
+      "houseNumber": "214",
+      "streetName": "Shavon Stravenue",
+      "postcode": "SE3 7GP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1990.73,
+    "purchasePrice": 936517.30
+  },
+  {
+    "id": 873,
+    "address": {
+      "houseNumber": "0068",
+      "streetName": "Jenine Trail",
+      "postcode": "WC3 8TL"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1213.5,
+    "purchasePrice": 331793.27
+  },
+  {
+    "id": 874,
+    "address": {
+      "houseNumber": "4184",
+      "streetName": "Damaris Course",
+      "postcode": "SE16 1SF"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 970.93,
+    "purchasePrice": 874172.97
+  },
+  {
+    "id": 875,
+    "address": {
+      "houseNumber": "786",
+      "streetName": "Gleason Summit",
+      "postcode": "EC18 3BV"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1588.93,
+    "purchasePrice": 909957.13
+  },
+  {
+    "id": 876,
+    "address": {
+      "houseNumber": "46268",
+      "streetName": "Koch View",
+      "postcode": "SW13 9MS"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1451.77,
+    "purchasePrice": 907937.50
+  },
+  {
+    "id": 877,
+    "address": {
+      "houseNumber": "02060",
+      "streetName": "Mario Lake",
+      "postcode": "TW9 0KB"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1164.38,
+    "purchasePrice": 520803.79
+  },
+  {
+    "id": 878,
+    "address": {
+      "houseNumber": "1980",
+      "streetName": "Lacey Crossroad",
+      "postcode": "E14 1QC"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 908.52,
+    "purchasePrice": 963793.56
+  },
+  {
+    "id": 879,
+    "address": {
+      "houseNumber": "7378",
+      "streetName": "Herman Square",
+      "postcode": "KT10 3YF"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 609.73,
+    "purchasePrice": 588875.52
+  },
+  {
+    "id": 880,
+    "address": {
+      "houseNumber": "1799",
+      "streetName": "Leif View",
+      "postcode": "KT8 7QE"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 991.96,
+    "purchasePrice": 802240.56
+  },
+  {
+    "id": 881,
+    "address": {
+      "houseNumber": "5947",
+      "streetName": "Gorczany Lock",
+      "postcode": "E12 2JA"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1644.67,
+    "purchasePrice": 899434.39
+  },
+  {
+    "id": 882,
+    "address": {
+      "houseNumber": "459",
+      "streetName": "Jarred Flat",
+      "postcode": "EC6 0RD"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1863.41,
+    "purchasePrice": 858954.87
+  },
+  {
+    "id": 883,
+    "address": {
+      "houseNumber": "1330",
+      "streetName": "Lino Cape",
+      "postcode": "E2 6LY"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 721.58,
+    "purchasePrice": 168719.89
+  },
+  {
+    "id": 884,
+    "address": {
+      "houseNumber": "81238",
+      "streetName": "Roberts Square",
+      "postcode": "N10 2MG"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1832.04,
+    "purchasePrice": 726278.68
+  },
+  {
+    "id": 885,
+    "address": {
+      "houseNumber": "36595",
+      "streetName": "VonRueden Forge",
+      "postcode": "NW2 5IP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2986.04,
+    "purchasePrice": 524781.96
+  },
+  {
+    "id": 886,
+    "address": {
+      "houseNumber": "03185",
+      "streetName": "Beier Green",
+      "postcode": "N16 6CT"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1632.23,
+    "purchasePrice": 981477.22
+  },
+  {
+    "id": 887,
+    "address": {
+      "houseNumber": "803",
+      "streetName": "Belen Parkway",
+      "postcode": "NW15 5FG"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1127.44,
+    "purchasePrice": 268003.19
+  },
+  {
+    "id": 888,
+    "address": {
+      "houseNumber": "02828",
+      "streetName": "Brekke Fall",
+      "postcode": "EC7 5VD"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2692.03,
+    "purchasePrice": 714229.69
+  },
+  {
+    "id": 889,
+    "address": {
+      "houseNumber": "0675",
+      "streetName": "Joseph Plain",
+      "postcode": "KT18 5PR"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2705.4,
+    "purchasePrice": 517643.15
+  },
+  {
+    "id": 890,
+    "address": {
+      "houseNumber": "20726",
+      "streetName": "Ankunding Pine",
+      "postcode": "SW6 8EZ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1386.76,
+    "purchasePrice": 824308.53
+  },
+  {
+    "id": 891,
+    "address": {
+      "houseNumber": "388",
+      "streetName": "Johnson Forks",
+      "postcode": "SE3 3OH"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2002.68,
+    "purchasePrice": 438073.20
+  },
+  {
+    "id": 892,
+    "address": {
+      "houseNumber": "786",
+      "streetName": "Lorenzo Falls",
+      "postcode": "WC14 9MH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2889.47,
+    "purchasePrice": 390286.06
+  },
+  {
+    "id": 893,
+    "address": {
+      "houseNumber": "4773",
+      "streetName": "Valarie Parkways",
+      "postcode": "EC3 2ZA"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1118.77,
+    "purchasePrice": 933317.05
+  },
+  {
+    "id": 894,
+    "address": {
+      "houseNumber": "39205",
+      "streetName": "Gutkowski Junctions",
+      "postcode": "NW1 1IW"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1197.61,
+    "purchasePrice": 989932.09
+  },
+  {
+    "id": 895,
+    "address": {
+      "houseNumber": "88240",
+      "streetName": "Vicente Landing",
+      "postcode": "E18 8ZT"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1243.25,
+    "purchasePrice": 318477.29
+  },
+  {
+    "id": 896,
+    "address": {
+      "houseNumber": "33030",
+      "streetName": "Octavio Ford",
+      "postcode": "NW6 3VS"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1071.35,
+    "purchasePrice": 121512.09
+  },
+  {
+    "id": 897,
+    "address": {
+      "houseNumber": "6207",
+      "streetName": "Jessika Trail",
+      "postcode": "N4 7VP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1534.11,
+    "purchasePrice": 886881.91
+  },
+  {
+    "id": 898,
+    "address": {
+      "houseNumber": "125",
+      "streetName": "Boehm Mountains",
+      "postcode": "E7 7AP"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2883.5,
+    "purchasePrice": 142250.33
+  },
+  {
+    "id": 899,
+    "address": {
+      "houseNumber": "0176",
+      "streetName": "Seth Grove",
+      "postcode": "EC11 1BG"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 837.06,
+    "purchasePrice": 692463.34
+  },
+  {
+    "id": 900,
+    "address": {
+      "houseNumber": "17417",
+      "streetName": "Rosamaria Prairie",
+      "postcode": "TW2 9SC"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2710.36,
+    "purchasePrice": 817679.35
+  },
+  {
+    "id": 901,
+    "address": {
+      "houseNumber": "2788",
+      "streetName": "Fredrick Keys",
+      "postcode": "N18 6JK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2011.51,
+    "purchasePrice": 661951.07
+  },
+  {
+    "id": 902,
+    "address": {
+      "houseNumber": "8918",
+      "streetName": "Parker Dam",
+      "postcode": "SE4 3JO"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1487.48,
+    "purchasePrice": 612661.48
+  },
+  {
+    "id": 903,
+    "address": {
+      "houseNumber": "180",
+      "streetName": "Simonis Squares",
+      "postcode": "EC16 1WJ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2435.83,
+    "purchasePrice": 561859.73
+  },
+  {
+    "id": 904,
+    "address": {
+      "houseNumber": "4502",
+      "streetName": "Miguel Passage",
+      "postcode": "N18 4WT"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 618.0,
+    "purchasePrice": 567893.77
+  },
+  {
+    "id": 905,
+    "address": {
+      "houseNumber": "36575",
+      "streetName": "Dillon Wells",
+      "postcode": "EC12 4FP"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 999.77,
+    "purchasePrice": 274938.41
+  },
+  {
+    "id": 906,
+    "address": {
+      "houseNumber": "38172",
+      "streetName": "Marvin Ways",
+      "postcode": "WC16 5BS"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2557.45,
+    "purchasePrice": 437313.27
+  },
+  {
+    "id": 907,
+    "address": {
+      "houseNumber": "18354",
+      "streetName": "Willetta Center",
+      "postcode": "E10 6PK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2022.89,
+    "purchasePrice": 731853.73
+  },
+  {
+    "id": 908,
+    "address": {
+      "houseNumber": "229",
+      "streetName": "Thora Shore",
+      "postcode": "SW7 2DX"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2333.86,
+    "purchasePrice": 481387.53
+  },
+  {
+    "id": 909,
+    "address": {
+      "houseNumber": "5479",
+      "streetName": "Runte Roads",
+      "postcode": "NW7 3JG"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2554.4,
+    "purchasePrice": 927378.28
+  },
+  {
+    "id": 910,
+    "address": {
+      "houseNumber": "173",
+      "streetName": "Hoeger Common",
+      "postcode": "E3 5KS"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2452.07,
+    "purchasePrice": 398673.74
+  },
+  {
+    "id": 911,
+    "address": {
+      "houseNumber": "81552",
+      "streetName": "VonRueden Parkways",
+      "postcode": "SE1 7DP"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2395.82,
+    "purchasePrice": 677780.68
+  },
+  {
+    "id": 912,
+    "address": {
+      "houseNumber": "2779",
+      "streetName": "Dominique Mill",
+      "postcode": "SE4 5IZ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2963.92,
+    "purchasePrice": 503785.90
+  },
+  {
+    "id": 913,
+    "address": {
+      "houseNumber": "357",
+      "streetName": "Jasmin Ports",
+      "postcode": "TW7 3EA"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 924.87,
+    "purchasePrice": 867290.10
+  },
+  {
+    "id": 914,
+    "address": {
+      "houseNumber": "4747",
+      "streetName": "Darlene Plaza",
+      "postcode": "N15 9CT"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1262.03,
+    "purchasePrice": 276943.08
+  },
+  {
+    "id": 915,
+    "address": {
+      "houseNumber": "500",
+      "streetName": "Barrows Court",
+      "postcode": "N13 0GH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2409.69,
+    "purchasePrice": 684961.19
+  },
+  {
+    "id": 916,
+    "address": {
+      "houseNumber": "41068",
+      "streetName": "Mica Port",
+      "postcode": "NW17 5OI"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1398.38,
+    "purchasePrice": 584079.59
+  },
+  {
+    "id": 917,
+    "address": {
+      "houseNumber": "85958",
+      "streetName": "Antonette Brook",
+      "postcode": "WC6 7OU"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 866.99,
+    "purchasePrice": 536476.26
+  },
+  {
+    "id": 918,
+    "address": {
+      "houseNumber": "50549",
+      "streetName": "Jermaine Shoals",
+      "postcode": "SW7 3YH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1732.15,
+    "purchasePrice": 119810.93
+  },
+  {
+    "id": 919,
+    "address": {
+      "houseNumber": "989",
+      "streetName": "Dominique Mountains",
+      "postcode": "SW1 2IM"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1190.98,
+    "purchasePrice": 421432.15
+  },
+  {
+    "id": 920,
+    "address": {
+      "houseNumber": "4000",
+      "streetName": "Stamm Locks",
+      "postcode": "E18 5DX"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2457.01,
+    "purchasePrice": 410272.02
+  },
+  {
+    "id": 921,
+    "address": {
+      "houseNumber": "74231",
+      "streetName": "Dach Rapids",
+      "postcode": "WC9 9OU"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1433.83,
+    "purchasePrice": 569417.42
+  },
+  {
+    "id": 922,
+    "address": {
+      "houseNumber": "651",
+      "streetName": "Hanna Well",
+      "postcode": "KT10 0PV"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1732.36,
+    "purchasePrice": 675121.69
+  },
+  {
+    "id": 923,
+    "address": {
+      "houseNumber": "44134",
+      "streetName": "Kaycee Shoal",
+      "postcode": "TW9 6FS"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1531.25,
+    "purchasePrice": 505419.89
+  },
+  {
+    "id": 924,
+    "address": {
+      "houseNumber": "78352",
+      "streetName": "Lowe Street",
+      "postcode": "E5 5BW"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2825.93,
+    "purchasePrice": 981747.63
+  },
+  {
+    "id": 925,
+    "address": {
+      "houseNumber": "3015",
+      "streetName": "Kihn Garden",
+      "postcode": "E14 2KJ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1975.29,
+    "purchasePrice": 564976.92
+  },
+  {
+    "id": 926,
+    "address": {
+      "houseNumber": "8405",
+      "streetName": "Barry Ferry",
+      "postcode": "KT13 6GH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1078.55,
+    "purchasePrice": 172254.61
+  },
+  {
+    "id": 927,
+    "address": {
+      "houseNumber": "0876",
+      "streetName": "Jason Spurs",
+      "postcode": "TW6 7JE"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 700.05,
+    "purchasePrice": 689984.19
+  },
+  {
+    "id": 928,
+    "address": {
+      "houseNumber": "815",
+      "streetName": "Roob Squares",
+      "postcode": "EC7 9EP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2957.98,
+    "purchasePrice": 231671.85
+  },
+  {
+    "id": 929,
+    "address": {
+      "houseNumber": "957",
+      "streetName": "Predovic Parks",
+      "postcode": "SW5 6EO"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1107.42,
+    "purchasePrice": 819914.85
+  },
+  {
+    "id": 930,
+    "address": {
+      "houseNumber": "854",
+      "streetName": "Jocelyn Valleys",
+      "postcode": "KT8 7BS"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2920.7,
+    "purchasePrice": 887976.57
+  },
+  {
+    "id": 931,
+    "address": {
+      "houseNumber": "3844",
+      "streetName": "Jerald Ports",
+      "postcode": "NW8 0FJ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2356.38,
+    "purchasePrice": 277886.48
+  },
+  {
+    "id": 932,
+    "address": {
+      "houseNumber": "14866",
+      "streetName": "Sharda Village",
+      "postcode": "NW9 7CT"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1604.78,
+    "purchasePrice": 387385.10
+  },
+  {
+    "id": 933,
+    "address": {
+      "houseNumber": "4843",
+      "streetName": "Arlen Lock",
+      "postcode": "KT5 8TA"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2295.05,
+    "purchasePrice": 317795.54
+  },
+  {
+    "id": 934,
+    "address": {
+      "houseNumber": "04837",
+      "streetName": "Latarsha Villages",
+      "postcode": "SE11 6FB"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 819.79,
+    "purchasePrice": 423815.12
+  },
+  {
+    "id": 935,
+    "address": {
+      "houseNumber": "592",
+      "streetName": "Johnnie Summit",
+      "postcode": "SE13 8KJ"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2389.9,
+    "purchasePrice": 851263.95
+  },
+  {
+    "id": 936,
+    "address": {
+      "houseNumber": "248",
+      "streetName": "Padberg Unions",
+      "postcode": "SW10 0CZ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2936.9,
+    "purchasePrice": 883093.67
+  },
+  {
+    "id": 937,
+    "address": {
+      "houseNumber": "27809",
+      "streetName": "Clarence Rue",
+      "postcode": "EC5 8VW"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1775.79,
+    "purchasePrice": 708610.03
+  },
+  {
+    "id": 938,
+    "address": {
+      "houseNumber": "49037",
+      "streetName": "Annalee Shore",
+      "postcode": "N7 8HZ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 616.55,
+    "purchasePrice": 193623.51
+  },
+  {
+    "id": 939,
+    "address": {
+      "houseNumber": "55922",
+      "streetName": "Maggio Burg",
+      "postcode": "TW15 8HI"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2239.23,
+    "purchasePrice": 434146.51
+  },
+  {
+    "id": 940,
+    "address": {
+      "houseNumber": "3839",
+      "streetName": "Aida Hills",
+      "postcode": "SE1 1WS"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1654.31,
+    "purchasePrice": 752271.96
+  },
+  {
+    "id": 941,
+    "address": {
+      "houseNumber": "1720",
+      "streetName": "Ashleigh Knoll",
+      "postcode": "N16 4PJ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1402.17,
+    "purchasePrice": 877334.04
+  },
+  {
+    "id": 942,
+    "address": {
+      "houseNumber": "07252",
+      "streetName": "Jay Square",
+      "postcode": "NW10 9PB"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1404.52,
+    "purchasePrice": 473889.29
+  },
+  {
+    "id": 943,
+    "address": {
+      "houseNumber": "3058",
+      "streetName": "Dicki Canyon",
+      "postcode": "EC12 8BB"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1653.71,
+    "purchasePrice": 640793.71
+  },
+  {
+    "id": 944,
+    "address": {
+      "houseNumber": "757",
+      "streetName": "Jay Locks",
+      "postcode": "N7 4OE"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1451.47,
+    "purchasePrice": 714175.46
+  },
+  {
+    "id": 945,
+    "address": {
+      "houseNumber": "72604",
+      "streetName": "Hickle Ways",
+      "postcode": "E6 4UD"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 877.44,
+    "purchasePrice": 121595.31
+  },
+  {
+    "id": 946,
+    "address": {
+      "houseNumber": "696",
+      "streetName": "Connelly Lane",
+      "postcode": "KT14 1ZL"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2630.62,
+    "purchasePrice": 200887.55
+  },
+  {
+    "id": 947,
+    "address": {
+      "houseNumber": "106",
+      "streetName": "Franecki Run",
+      "postcode": "KT5 1FK"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 596.24,
+    "purchasePrice": 787971.76
+  },
+  {
+    "id": 948,
+    "address": {
+      "houseNumber": "56868",
+      "streetName": "Merle Vista",
+      "postcode": "SW12 0RB"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1816.53,
+    "purchasePrice": 652929.71
+  },
+  {
+    "id": 949,
+    "address": {
+      "houseNumber": "409",
+      "streetName": "Friesen Brook",
+      "postcode": "EC11 8TB"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2585.56,
+    "purchasePrice": 175632.83
+  },
+  {
+    "id": 950,
+    "address": {
+      "houseNumber": "2801",
+      "streetName": "Yanira Cliffs",
+      "postcode": "SW17 6WO"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2818.97,
+    "purchasePrice": 349432.40
+  },
+  {
+    "id": 951,
+    "address": {
+      "houseNumber": "107",
+      "streetName": "Greenholt Turnpike",
+      "postcode": "EC2 3RL"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1334.34,
+    "purchasePrice": 435510.67
+  },
+  {
+    "id": 952,
+    "address": {
+      "houseNumber": "71650",
+      "streetName": "Natalia Falls",
+      "postcode": "KT12 3UK"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2817.12,
+    "purchasePrice": 433063.87
+  },
+  {
+    "id": 953,
+    "address": {
+      "houseNumber": "05244",
+      "streetName": "Pura Inlet",
+      "postcode": "TW2 0US"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2879.82,
+    "purchasePrice": 475867.55
+  },
+  {
+    "id": 954,
+    "address": {
+      "houseNumber": "934",
+      "streetName": "Mraz Plaza",
+      "postcode": "TW4 3SR"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1152.38,
+    "purchasePrice": 672145.78
+  },
+  {
+    "id": 955,
+    "address": {
+      "houseNumber": "1498",
+      "streetName": "McCullough Fall",
+      "postcode": "WC10 9MU"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2324.88,
+    "purchasePrice": 339894.78
+  },
+  {
+    "id": 956,
+    "address": {
+      "houseNumber": "503",
+      "streetName": "Brakus Terrace",
+      "postcode": "WC8 4IP"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1650.46,
+    "purchasePrice": 594162.59
+  },
+  {
+    "id": 957,
+    "address": {
+      "houseNumber": "2907",
+      "streetName": "Rowe Lake",
+      "postcode": "SW11 1KK"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 919.1,
+    "purchasePrice": 813510.38
+  },
+  {
+    "id": 958,
+    "address": {
+      "houseNumber": "415",
+      "streetName": "King Skyway",
+      "postcode": "KT9 0CW"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2344.82,
+    "purchasePrice": 834224.48
+  },
+  {
+    "id": 959,
+    "address": {
+      "houseNumber": "80935",
+      "streetName": "Rosena Radial",
+      "postcode": "SW13 2OG"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1007.7,
+    "purchasePrice": 444887.56
+  },
+  {
+    "id": 960,
+    "address": {
+      "houseNumber": "584",
+      "streetName": "Gaylord Port",
+      "postcode": "SE18 1VP"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1434.05,
+    "purchasePrice": 215941.69
+  },
+  {
+    "id": 961,
+    "address": {
+      "houseNumber": "5738",
+      "streetName": "Buster Grove",
+      "postcode": "NW16 5MN"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 505.27,
+    "purchasePrice": 905862.06
+  },
+  {
+    "id": 962,
+    "address": {
+      "houseNumber": "9878",
+      "streetName": "Consuelo Way",
+      "postcode": "EC2 6EP"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2874.55,
+    "purchasePrice": 682398.77
+  },
+  {
+    "id": 963,
+    "address": {
+      "houseNumber": "405",
+      "streetName": "Farrell Fords",
+      "postcode": "WC10 4KW"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2844.91,
+    "purchasePrice": 397036.24
+  },
+  {
+    "id": 964,
+    "address": {
+      "houseNumber": "5066",
+      "streetName": "Nigel Mission",
+      "postcode": "TW2 5NQ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2458.37,
+    "purchasePrice": 751016.63
+  },
+  {
+    "id": 965,
+    "address": {
+      "houseNumber": "2236",
+      "streetName": "Josette Lodge",
+      "postcode": "KT6 0BJ"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2286.9,
+    "purchasePrice": 597489.09
+  },
+  {
+    "id": 966,
+    "address": {
+      "houseNumber": "93525",
+      "streetName": "Michale Trafficway",
+      "postcode": "N5 8VQ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2308.91,
+    "purchasePrice": 788460.59
+  },
+  {
+    "id": 967,
+    "address": {
+      "houseNumber": "0103",
+      "streetName": "Treutel Estate",
+      "postcode": "N7 1TN"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2993.58,
+    "purchasePrice": 543670.93
+  },
+  {
+    "id": 968,
+    "address": {
+      "houseNumber": "926",
+      "streetName": "Cremin Fords",
+      "postcode": "WC1 6EE"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1577.67,
+    "purchasePrice": 360097.81
+  },
+  {
+    "id": 969,
+    "address": {
+      "houseNumber": "010",
+      "streetName": "Adelle Meadows",
+      "postcode": "N7 8UJ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2449.1,
+    "purchasePrice": 781958.50
+  },
+  {
+    "id": 970,
+    "address": {
+      "houseNumber": "35241",
+      "streetName": "Damon Trace",
+      "postcode": "NW11 6GI"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1312.6,
+    "purchasePrice": 672738.75
+  },
+  {
+    "id": 971,
+    "address": {
+      "houseNumber": "7264",
+      "streetName": "Adrian Key",
+      "postcode": "SE8 8JY"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 780.25,
+    "purchasePrice": 452594.21
+  },
+  {
+    "id": 972,
+    "address": {
+      "houseNumber": "41652",
+      "streetName": "Pollich Loaf",
+      "postcode": "SE1 5UI"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1893.47,
+    "purchasePrice": 530899.54
+  },
+  {
+    "id": 973,
+    "address": {
+      "houseNumber": "4671",
+      "streetName": "Rosalinda Locks",
+      "postcode": "SW14 3MT"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1603.96,
+    "purchasePrice": 691653.55
+  },
+  {
+    "id": 974,
+    "address": {
+      "houseNumber": "955",
+      "streetName": "Antione Union",
+      "postcode": "EC11 7IF"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2427.83,
+    "purchasePrice": 797094.35
+  },
+  {
+    "id": 975,
+    "address": {
+      "houseNumber": "322",
+      "streetName": "Carmen Fords",
+      "postcode": "EC13 0HV"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 641.48,
+    "purchasePrice": 856237.53
+  },
+  {
+    "id": 976,
+    "address": {
+      "houseNumber": "617",
+      "streetName": "Christiansen Grove",
+      "postcode": "E1 4JR"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 925.36,
+    "purchasePrice": 894692.17
+  },
+  {
+    "id": 977,
+    "address": {
+      "houseNumber": "903",
+      "streetName": "Bryan Mission",
+      "postcode": "EC8 5DJ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1288.15,
+    "purchasePrice": 910369.41
+  },
+  {
+    "id": 978,
+    "address": {
+      "houseNumber": "3996",
+      "streetName": "Pfeffer Mills",
+      "postcode": "NW3 8NT"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1113.2,
+    "purchasePrice": 650894.06
+  },
+  {
+    "id": 979,
+    "address": {
+      "houseNumber": "5382",
+      "streetName": "Gilma Isle",
+      "postcode": "EC16 8RD"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2113.84,
+    "purchasePrice": 386642.68
+  },
+  {
+    "id": 980,
+    "address": {
+      "houseNumber": "546",
+      "streetName": "Shanahan Gateway",
+      "postcode": "SW16 0BS"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2586.55,
+    "purchasePrice": 981321.85
+  },
+  {
+    "id": 981,
+    "address": {
+      "houseNumber": "464",
+      "streetName": "Catherine Flat",
+      "postcode": "KT6 3AH"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 681.22,
+    "purchasePrice": 422734.06
+  },
+  {
+    "id": 982,
+    "address": {
+      "houseNumber": "71004",
+      "streetName": "Walton Lights",
+      "postcode": "E7 4XU"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2674.16,
+    "purchasePrice": 342450.11
+  },
+  {
+    "id": 983,
+    "address": {
+      "houseNumber": "347",
+      "streetName": "Quigley Locks",
+      "postcode": "E2 3ES"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2082.72,
+    "purchasePrice": 896192.75
+  },
+  {
+    "id": 984,
+    "address": {
+      "houseNumber": "4706",
+      "streetName": "D\u0027Amore Shoal",
+      "postcode": "SW18 7BS"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2752.26,
+    "purchasePrice": 440841.22
+  },
+  {
+    "id": 985,
+    "address": {
+      "houseNumber": "026",
+      "streetName": "Malik Estates",
+      "postcode": "WC12 7QK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1726.94,
+    "purchasePrice": 179475.98
+  },
+  {
+    "id": 986,
+    "address": {
+      "houseNumber": "158",
+      "streetName": "Denesik Unions",
+      "postcode": "SE17 7VD"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2617.76,
+    "purchasePrice": 964667.81
+  },
+  {
+    "id": 987,
+    "address": {
+      "houseNumber": "08832",
+      "streetName": "Kessler View",
+      "postcode": "NW10 4US"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2341.47,
+    "purchasePrice": 266428.30
+  },
+  {
+    "id": 988,
+    "address": {
+      "houseNumber": "2043",
+      "streetName": "Hyo Tunnel",
+      "postcode": "E14 4SM"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2111.38,
+    "purchasePrice": 252089.99
+  },
+  {
+    "id": 989,
+    "address": {
+      "houseNumber": "861",
+      "streetName": "Ledner Cliffs",
+      "postcode": "N5 5MP"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 824.59,
+    "purchasePrice": 535603.37
+  },
+  {
+    "id": 990,
+    "address": {
+      "houseNumber": "2493",
+      "streetName": "Block Rapid",
+      "postcode": "N5 0BZ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1223.17,
+    "purchasePrice": 534432.21
+  },
+  {
+    "id": 991,
+    "address": {
+      "houseNumber": "659",
+      "streetName": "Dawne Shoals",
+      "postcode": "WC5 7XP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 584.25,
+    "purchasePrice": 230507.32
+  },
+  {
+    "id": 992,
+    "address": {
+      "houseNumber": "81427",
+      "streetName": "Marion Cliffs",
+      "postcode": "TW8 0BT"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2690.16,
+    "purchasePrice": 829424.65
+  },
+  {
+    "id": 993,
+    "address": {
+      "houseNumber": "45654",
+      "streetName": "Erick Skyway",
+      "postcode": "SE13 1VO"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2303.75,
+    "purchasePrice": 462215.16
+  },
+  {
+    "id": 994,
+    "address": {
+      "houseNumber": "87552",
+      "streetName": "Bruen Path",
+      "postcode": "NW5 9UN"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2604.76,
+    "purchasePrice": 943166.01
+  },
+  {
+    "id": 995,
+    "address": {
+      "houseNumber": "2912",
+      "streetName": "Macejkovic Port",
+      "postcode": "WC8 9IV"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 578.83,
+    "purchasePrice": 755649.59
+  },
+  {
+    "id": 996,
+    "address": {
+      "houseNumber": "5699",
+      "streetName": "Romaguera Run",
+      "postcode": "N17 2GB"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2643.41,
+    "purchasePrice": 384827.11
+  },
+  {
+    "id": 997,
+    "address": {
+      "houseNumber": "066",
+      "streetName": "Emmerich Mountains",
+      "postcode": "SE8 3RT"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 648.83,
+    "purchasePrice": 149439.99
+  },
+  {
+    "id": 998,
+    "address": {
+      "houseNumber": "2018",
+      "streetName": "Mariette Parks",
+      "postcode": "EC9 2CZ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1634.23,
+    "purchasePrice": 261714.93
+  },
+  {
+    "id": 999,
+    "address": {
+      "houseNumber": "6812",
+      "streetName": "Cesar View",
+      "postcode": "WC7 1NU"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1346.23,
+    "purchasePrice": 257478.11
+  },
+  {
+    "id": 1000,
+    "address": {
+      "houseNumber": "43127",
+      "streetName": "Cynthia Springs",
+      "postcode": "NW5 6EX"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1129.75,
+    "purchasePrice": 113879.63
+  },
+  {
+    "id": 1001,
+    "address": {
+      "houseNumber": "84025",
+      "streetName": "Efrain Station",
+      "postcode": "EC2 5GI"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2161.91,
+    "purchasePrice": 594678.28
+  },
+  {
+    "id": 1002,
+    "address": {
+      "houseNumber": "783",
+      "streetName": "Jacquelynn Plaza",
+      "postcode": "N10 7JK"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 742.42,
+    "purchasePrice": 124667.88
+  },
+  {
+    "id": 1003,
+    "address": {
+      "houseNumber": "59350",
+      "streetName": "Frances Mountains",
+      "postcode": "NW13 8IB"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2794.01,
+    "purchasePrice": 467996.10
+  },
+  {
+    "id": 1004,
+    "address": {
+      "houseNumber": "5361",
+      "streetName": "Marks Glens",
+      "postcode": "EC2 6VL"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 787.26,
+    "purchasePrice": 919014.00
+  },
+  {
+    "id": 1005,
+    "address": {
+      "houseNumber": "527",
+      "streetName": "Denis Falls",
+      "postcode": "NW9 0WM"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1897.03,
+    "purchasePrice": 907538.62
+  },
+  {
+    "id": 1006,
+    "address": {
+      "houseNumber": "86024",
+      "streetName": "Hegmann Haven",
+      "postcode": "SE18 4JH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2610.39,
+    "purchasePrice": 768875.25
+  },
+  {
+    "id": 1007,
+    "address": {
+      "houseNumber": "596",
+      "streetName": "Cortney Plain",
+      "postcode": "E9 6FL"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1630.3,
+    "purchasePrice": 905624.92
+  },
+  {
+    "id": 1008,
+    "address": {
+      "houseNumber": "176",
+      "streetName": "Austin Falls",
+      "postcode": "SW16 1GI"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2262.25,
+    "purchasePrice": 300552.52
+  },
+  {
+    "id": 1009,
+    "address": {
+      "houseNumber": "7700",
+      "streetName": "Emery Springs",
+      "postcode": "NW6 2ZY"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 782.59,
+    "purchasePrice": 175899.99
+  },
+  {
+    "id": 1010,
+    "address": {
+      "houseNumber": "4858",
+      "streetName": "Marshall Manor",
+      "postcode": "KT2 8CV"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1985.59,
+    "purchasePrice": 707704.38
+  },
+  {
+    "id": 1011,
+    "address": {
+      "houseNumber": "231",
+      "streetName": "Koelpin Highway",
+      "postcode": "EC9 3SX"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2321.45,
+    "purchasePrice": 762104.92
+  },
+  {
+    "id": 1012,
+    "address": {
+      "houseNumber": "399",
+      "streetName": "Neva Hollow",
+      "postcode": "SW3 6DA"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1391.05,
+    "purchasePrice": 482519.11
+  },
+  {
+    "id": 1013,
+    "address": {
+      "houseNumber": "38483",
+      "streetName": "Willie Branch",
+      "postcode": "NW16 3TT"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 548.02,
+    "purchasePrice": 970390.71
+  },
+  {
+    "id": 1014,
+    "address": {
+      "houseNumber": "5878",
+      "streetName": "Christiansen Common",
+      "postcode": "WC17 0UX"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 526.51,
+    "purchasePrice": 607593.58
+  },
+  {
+    "id": 1015,
+    "address": {
+      "houseNumber": "061",
+      "streetName": "Kertzmann Circles",
+      "postcode": "SE11 1MX"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 927.91,
+    "purchasePrice": 142706.90
+  },
+  {
+    "id": 1016,
+    "address": {
+      "houseNumber": "030",
+      "streetName": "Sherman Prairie",
+      "postcode": "N18 7WH"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1220.77,
+    "purchasePrice": 528493.49
+  },
+  {
+    "id": 1017,
+    "address": {
+      "houseNumber": "310",
+      "streetName": "Barrett Village",
+      "postcode": "SE1 6LK"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2602.04,
+    "purchasePrice": 504900.92
+  },
+  {
+    "id": 1018,
+    "address": {
+      "houseNumber": "41236",
+      "streetName": "Miller Cape",
+      "postcode": "KT12 9SI"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 820.22,
+    "purchasePrice": 768890.28
+  },
+  {
+    "id": 1019,
+    "address": {
+      "houseNumber": "964",
+      "streetName": "Barrett Gardens",
+      "postcode": "SE8 0DZ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 661.88,
+    "purchasePrice": 856546.86
+  },
+  {
+    "id": 1020,
+    "address": {
+      "houseNumber": "3697",
+      "streetName": "Dagny Ford",
+      "postcode": "E3 8SK"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2255.64,
+    "purchasePrice": 188038.94
+  },
+  {
+    "id": 1021,
+    "address": {
+      "houseNumber": "648",
+      "streetName": "Carolynn Falls",
+      "postcode": "E14 0ZA"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2659.96,
+    "purchasePrice": 166675.42
+  },
+  {
+    "id": 1022,
+    "address": {
+      "houseNumber": "082",
+      "streetName": "Welch Throughway",
+      "postcode": "TW1 4QX"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2516.82,
+    "purchasePrice": 624192.63
+  },
+  {
+    "id": 1023,
+    "address": {
+      "houseNumber": "5912",
+      "streetName": "Hickle Stream",
+      "postcode": "WC18 2MV"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2763.27,
+    "purchasePrice": 260450.62
+  },
+  {
+    "id": 1024,
+    "address": {
+      "houseNumber": "460",
+      "streetName": "Hien Orchard",
+      "postcode": "NW9 2UV"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1107.15,
+    "purchasePrice": 309011.99
+  },
+  {
+    "id": 1025,
+    "address": {
+      "houseNumber": "94790",
+      "streetName": "Bergnaum Stream",
+      "postcode": "SW17 4HM"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 771.81,
+    "purchasePrice": 952368.99
+  },
+  {
+    "id": 1026,
+    "address": {
+      "houseNumber": "168",
+      "streetName": "Tamar Extension",
+      "postcode": "N10 9WR"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2344.13,
+    "purchasePrice": 877507.50
+  },
+  {
+    "id": 1027,
+    "address": {
+      "houseNumber": "87313",
+      "streetName": "Halvorson Union",
+      "postcode": "EC18 5AS"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 677.35,
+    "purchasePrice": 677606.66
+  },
+  {
+    "id": 1028,
+    "address": {
+      "houseNumber": "58403",
+      "streetName": "Rau Extension",
+      "postcode": "WC15 4TK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1626.32,
+    "purchasePrice": 492774.33
+  },
+  {
+    "id": 1029,
+    "address": {
+      "houseNumber": "2709",
+      "streetName": "Rice Haven",
+      "postcode": "SE10 0KH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2479.65,
+    "purchasePrice": 478395.78
+  },
+  {
+    "id": 1030,
+    "address": {
+      "houseNumber": "142",
+      "streetName": "Bartell Branch",
+      "postcode": "WC3 1AQ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1174.1,
+    "purchasePrice": 746351.41
+  },
+  {
+    "id": 1031,
+    "address": {
+      "houseNumber": "5172",
+      "streetName": "Boyle Rue",
+      "postcode": "E16 4MF"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2376.85,
+    "purchasePrice": 960375.71
+  },
+  {
+    "id": 1032,
+    "address": {
+      "houseNumber": "51182",
+      "streetName": "Robbie Forge",
+      "postcode": "TW2 9AB"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2205.76,
+    "purchasePrice": 610175.89
+  },
+  {
+    "id": 1033,
+    "address": {
+      "houseNumber": "1193",
+      "streetName": "Toby Mountains",
+      "postcode": "KT8 5ZM"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2762.53,
+    "purchasePrice": 905435.29
+  },
+  {
+    "id": 1034,
+    "address": {
+      "houseNumber": "15912",
+      "streetName": "Adah Curve",
+      "postcode": "KT15 4ZX"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 774.29,
+    "purchasePrice": 959193.64
+  },
+  {
+    "id": 1035,
+    "address": {
+      "houseNumber": "1649",
+      "streetName": "Ernser Spring",
+      "postcode": "EC12 3OS"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1156.6,
+    "purchasePrice": 128988.35
+  },
+  {
+    "id": 1036,
+    "address": {
+      "houseNumber": "7335",
+      "streetName": "Maira Roads",
+      "postcode": "N11 3KW"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2870.85,
+    "purchasePrice": 592116.75
+  },
+  {
+    "id": 1037,
+    "address": {
+      "houseNumber": "375",
+      "streetName": "Mandy Roads",
+      "postcode": "E6 7AC"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1624.18,
+    "purchasePrice": 908497.53
+  },
+  {
+    "id": 1038,
+    "address": {
+      "houseNumber": "341",
+      "streetName": "Weissnat Manors",
+      "postcode": "N8 5SP"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 966.33,
+    "purchasePrice": 433740.61
+  },
+  {
+    "id": 1039,
+    "address": {
+      "houseNumber": "446",
+      "streetName": "Weissnat Spring",
+      "postcode": "N9 3XE"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1972.56,
+    "purchasePrice": 959180.63
+  },
+  {
+    "id": 1040,
+    "address": {
+      "houseNumber": "399",
+      "streetName": "Wisozk Place",
+      "postcode": "EC16 6NF"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 886.87,
+    "purchasePrice": 906882.82
+  },
+  {
+    "id": 1041,
+    "address": {
+      "houseNumber": "6299",
+      "streetName": "Macejkovic Crest",
+      "postcode": "NW7 1QI"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1809.97,
+    "purchasePrice": 827731.33
+  },
+  {
+    "id": 1042,
+    "address": {
+      "houseNumber": "68397",
+      "streetName": "Wilton Mountains",
+      "postcode": "KT16 8XV"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 539.66,
+    "purchasePrice": 703044.97
+  },
+  {
+    "id": 1043,
+    "address": {
+      "houseNumber": "9581",
+      "streetName": "Monte Parkway",
+      "postcode": "E14 8FO"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1941.06,
+    "purchasePrice": 625078.12
+  },
+  {
+    "id": 1044,
+    "address": {
+      "houseNumber": "793",
+      "streetName": "Zemlak Tunnel",
+      "postcode": "NW6 6YT"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1534.68,
+    "purchasePrice": 119897.62
+  },
+  {
+    "id": 1045,
+    "address": {
+      "houseNumber": "904",
+      "streetName": "Love Roads",
+      "postcode": "SE8 2NW"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2019.87,
+    "purchasePrice": 499820.39
+  },
+  {
+    "id": 1046,
+    "address": {
+      "houseNumber": "303",
+      "streetName": "Raina Union",
+      "postcode": "SE18 5YP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1486.02,
+    "purchasePrice": 575838.09
+  },
+  {
+    "id": 1047,
+    "address": {
+      "houseNumber": "372",
+      "streetName": "Major View",
+      "postcode": "SW13 1YH"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 710.8,
+    "purchasePrice": 755686.58
+  },
+  {
+    "id": 1048,
+    "address": {
+      "houseNumber": "021",
+      "streetName": "Aleshia Freeway",
+      "postcode": "N5 6NG"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 848.31,
+    "purchasePrice": 334352.73
+  },
+  {
+    "id": 1049,
+    "address": {
+      "houseNumber": "912",
+      "streetName": "Klein Well",
+      "postcode": "KT16 3LP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2278.55,
+    "purchasePrice": 205900.56
+  },
+  {
+    "id": 1050,
+    "address": {
+      "houseNumber": "250",
+      "streetName": "Gerardo Hills",
+      "postcode": "EC7 4VN"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 550.38,
+    "purchasePrice": 645876.63
+  },
+  {
+    "id": 1051,
+    "address": {
+      "houseNumber": "9634",
+      "streetName": "Kuhic Passage",
+      "postcode": "WC17 4TY"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2128.17,
+    "purchasePrice": 890740.56
+  },
+  {
+    "id": 1052,
+    "address": {
+      "houseNumber": "5622",
+      "streetName": "Heidy Brook",
+      "postcode": "NW18 2MO"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 752.43,
+    "purchasePrice": 301864.73
+  },
+  {
+    "id": 1053,
+    "address": {
+      "houseNumber": "5541",
+      "streetName": "Brigid Via",
+      "postcode": "EC11 5ZW"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 613.09,
+    "purchasePrice": 264324.39
+  },
+  {
+    "id": 1054,
+    "address": {
+      "houseNumber": "260",
+      "streetName": "Charlie Inlet",
+      "postcode": "NW16 4OL"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2017.19,
+    "purchasePrice": 474208.97
+  },
+  {
+    "id": 1055,
+    "address": {
+      "houseNumber": "35888",
+      "streetName": "Sheree Mountains",
+      "postcode": "N9 9PU"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1846.41,
+    "purchasePrice": 276554.29
+  },
+  {
+    "id": 1056,
+    "address": {
+      "houseNumber": "0017",
+      "streetName": "Vernon Forge",
+      "postcode": "KT7 4BO"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 588.72,
+    "purchasePrice": 108533.94
+  },
+  {
+    "id": 1057,
+    "address": {
+      "houseNumber": "95590",
+      "streetName": "Bebe Mill",
+      "postcode": "TW17 0FH"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2660.6,
+    "purchasePrice": 416622.75
+  },
+  {
+    "id": 1058,
+    "address": {
+      "houseNumber": "933",
+      "streetName": "Willard Flats",
+      "postcode": "E8 0MB"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1349.56,
+    "purchasePrice": 489733.95
+  },
+  {
+    "id": 1059,
+    "address": {
+      "houseNumber": "201",
+      "streetName": "Corinne Ferry",
+      "postcode": "SE15 8OV"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1349.06,
+    "purchasePrice": 796771.06
+  },
+  {
+    "id": 1060,
+    "address": {
+      "houseNumber": "07066",
+      "streetName": "Roland Mission",
+      "postcode": "TW4 1QI"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 902.77,
+    "purchasePrice": 158313.95
+  },
+  {
+    "id": 1061,
+    "address": {
+      "houseNumber": "886",
+      "streetName": "Swaniawski Shoals",
+      "postcode": "TW3 3WI"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1700.62,
+    "purchasePrice": 259157.59
+  },
+  {
+    "id": 1062,
+    "address": {
+      "houseNumber": "60702",
+      "streetName": "Treutel Camp",
+      "postcode": "N3 5MX"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2786.47,
+    "purchasePrice": 128835.21
+  },
+  {
+    "id": 1063,
+    "address": {
+      "houseNumber": "0438",
+      "streetName": "Powlowski Islands",
+      "postcode": "TW4 0FP"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1491.8,
+    "purchasePrice": 166886.88
+  },
+  {
+    "id": 1064,
+    "address": {
+      "houseNumber": "80293",
+      "streetName": "Gayle Park",
+      "postcode": "N11 0FZ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2949.85,
+    "purchasePrice": 712936.23
+  },
+  {
+    "id": 1065,
+    "address": {
+      "houseNumber": "34192",
+      "streetName": "Heathcote Wall",
+      "postcode": "KT9 5OI"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1144.35,
+    "purchasePrice": 865994.94
+  },
+  {
+    "id": 1066,
+    "address": {
+      "houseNumber": "233",
+      "streetName": "Wisozk Meadows",
+      "postcode": "SE13 1ZD"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2307.96,
+    "purchasePrice": 566774.99
+  },
+  {
+    "id": 1067,
+    "address": {
+      "houseNumber": "45878",
+      "streetName": "Sauer Tunnel",
+      "postcode": "TW5 8SH"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 667.82,
+    "purchasePrice": 755463.41
+  },
+  {
+    "id": 1068,
+    "address": {
+      "houseNumber": "26824",
+      "streetName": "Barrows Mission",
+      "postcode": "KT3 9XP"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 570.31,
+    "purchasePrice": 669954.67
+  },
+  {
+    "id": 1069,
+    "address": {
+      "houseNumber": "9898",
+      "streetName": "Rhett Light",
+      "postcode": "TW7 3HM"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1377.53,
+    "purchasePrice": 451040.84
+  },
+  {
+    "id": 1070,
+    "address": {
+      "houseNumber": "5586",
+      "streetName": "Bergstrom Station",
+      "postcode": "N15 3OO"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 525.5,
+    "purchasePrice": 500902.35
+  },
+  {
+    "id": 1071,
+    "address": {
+      "houseNumber": "00370",
+      "streetName": "Berge Ferry",
+      "postcode": "EC11 2KJ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1743.48,
+    "purchasePrice": 840850.08
+  },
+  {
+    "id": 1072,
+    "address": {
+      "houseNumber": "75136",
+      "streetName": "Dooley Overpass",
+      "postcode": "TW3 3DM"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 779.16,
+    "purchasePrice": 785763.46
+  },
+  {
+    "id": 1073,
+    "address": {
+      "houseNumber": "78220",
+      "streetName": "Greenholt Grove",
+      "postcode": "E6 6WW"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2858.52,
+    "purchasePrice": 881641.92
+  },
+  {
+    "id": 1074,
+    "address": {
+      "houseNumber": "8813",
+      "streetName": "Stiedemann Forge",
+      "postcode": "SW15 3RH"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1012.57,
+    "purchasePrice": 872427.78
+  },
+  {
+    "id": 1075,
+    "address": {
+      "houseNumber": "398",
+      "streetName": "Bartell Isle",
+      "postcode": "N3 3ER"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1353.0,
+    "purchasePrice": 788767.17
+  },
+  {
+    "id": 1076,
+    "address": {
+      "houseNumber": "96218",
+      "streetName": "Hermann Lights",
+      "postcode": "TW14 5EH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2965.58,
+    "purchasePrice": 338496.57
+  },
+  {
+    "id": 1077,
+    "address": {
+      "houseNumber": "6725",
+      "streetName": "Kuhn Light",
+      "postcode": "E10 4JD"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 878.26,
+    "purchasePrice": 895029.01
+  },
+  {
+    "id": 1078,
+    "address": {
+      "houseNumber": "33239",
+      "streetName": "Maria Camp",
+      "postcode": "SW9 7MI"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2574.49,
+    "purchasePrice": 680263.41
+  },
+  {
+    "id": 1079,
+    "address": {
+      "houseNumber": "85169",
+      "streetName": "Rippin Place",
+      "postcode": "SW14 4OU"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2402.73,
+    "purchasePrice": 868710.75
+  },
+  {
+    "id": 1080,
+    "address": {
+      "houseNumber": "9848",
+      "streetName": "Kunde Drive",
+      "postcode": "KT12 0JL"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2337.1,
+    "purchasePrice": 158933.04
+  },
+  {
+    "id": 1081,
+    "address": {
+      "houseNumber": "095",
+      "streetName": "Forest Ridge",
+      "postcode": "E12 2XI"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 771.35,
+    "purchasePrice": 966996.11
+  },
+  {
+    "id": 1082,
+    "address": {
+      "houseNumber": "641",
+      "streetName": "Spencer Isle",
+      "postcode": "SW16 0GB"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1552.45,
+    "purchasePrice": 152354.59
+  },
+  {
+    "id": 1083,
+    "address": {
+      "houseNumber": "40299",
+      "streetName": "Kasie Corner",
+      "postcode": "N13 5UE"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2814.26,
+    "purchasePrice": 938037.34
+  },
+  {
+    "id": 1084,
+    "address": {
+      "houseNumber": "917",
+      "streetName": "Filiberto Park",
+      "postcode": "TW14 2FU"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 776.37,
+    "purchasePrice": 636590.90
+  },
+  {
+    "id": 1085,
+    "address": {
+      "houseNumber": "50536",
+      "streetName": "Noe Trail",
+      "postcode": "SW7 0OA"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1037.52,
+    "purchasePrice": 435028.41
+  },
+  {
+    "id": 1086,
+    "address": {
+      "houseNumber": "550",
+      "streetName": "Malik Keys",
+      "postcode": "TW10 2DD"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1066.95,
+    "purchasePrice": 327704.58
+  },
+  {
+    "id": 1087,
+    "address": {
+      "houseNumber": "2285",
+      "streetName": "Mante Lights",
+      "postcode": "TW5 0FT"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2808.53,
+    "purchasePrice": 289553.99
+  },
+  {
+    "id": 1088,
+    "address": {
+      "houseNumber": "896",
+      "streetName": "Mann Points",
+      "postcode": "SE17 3BJ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 529.37,
+    "purchasePrice": 564404.40
+  },
+  {
+    "id": 1089,
+    "address": {
+      "houseNumber": "53801",
+      "streetName": "Ullrich Radial",
+      "postcode": "WC17 3MI"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2087.81,
+    "purchasePrice": 466567.66
+  },
+  {
+    "id": 1090,
+    "address": {
+      "houseNumber": "1355",
+      "streetName": "Lehner Center",
+      "postcode": "KT11 3LW"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1511.78,
+    "purchasePrice": 635363.23
+  },
+  {
+    "id": 1091,
+    "address": {
+      "houseNumber": "7971",
+      "streetName": "Krajcik Extension",
+      "postcode": "KT2 2CQ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2401.19,
+    "purchasePrice": 360896.76
+  },
+  {
+    "id": 1092,
+    "address": {
+      "houseNumber": "39580",
+      "streetName": "Jules Court",
+      "postcode": "WC10 1VC"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1505.77,
+    "purchasePrice": 941538.65
+  },
+  {
+    "id": 1093,
+    "address": {
+      "houseNumber": "78750",
+      "streetName": "Goyette Rue",
+      "postcode": "SW15 3IO"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1322.87,
+    "purchasePrice": 126585.82
+  },
+  {
+    "id": 1094,
+    "address": {
+      "houseNumber": "786",
+      "streetName": "Roob Forges",
+      "postcode": "WC4 2JS"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1983.28,
+    "purchasePrice": 124464.61
+  },
+  {
+    "id": 1095,
+    "address": {
+      "houseNumber": "357",
+      "streetName": "Marvin Motorway",
+      "postcode": "WC12 3DG"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2069.74,
+    "purchasePrice": 424976.58
+  },
+  {
+    "id": 1096,
+    "address": {
+      "houseNumber": "183",
+      "streetName": "Shirleen Street",
+      "postcode": "N13 3VM"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2444.01,
+    "purchasePrice": 495121.29
+  },
+  {
+    "id": 1097,
+    "address": {
+      "houseNumber": "2250",
+      "streetName": "Anastasia Trail",
+      "postcode": "EC6 8EX"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2867.6,
+    "purchasePrice": 358506.49
+  },
+  {
+    "id": 1098,
+    "address": {
+      "houseNumber": "442",
+      "streetName": "Marquis Greens",
+      "postcode": "WC2 2YM"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1750.77,
+    "purchasePrice": 100653.33
+  },
+  {
+    "id": 1099,
+    "address": {
+      "houseNumber": "78005",
+      "streetName": "Gaye Rest",
+      "postcode": "E11 2OC"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2453.94,
+    "purchasePrice": 100389.44
+  },
+  {
+    "id": 1100,
+    "address": {
+      "houseNumber": "847",
+      "streetName": "Hagenes Junction",
+      "postcode": "WC6 9KZ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1363.99,
+    "purchasePrice": 687656.61
+  },
+  {
+    "id": 1101,
+    "address": {
+      "houseNumber": "9914",
+      "streetName": "Mueller Center",
+      "postcode": "KT10 7GI"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1415.23,
+    "purchasePrice": 939701.18
+  },
+  {
+    "id": 1102,
+    "address": {
+      "houseNumber": "70408",
+      "streetName": "Schiller Shores",
+      "postcode": "KT12 8ZV"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2153.15,
+    "purchasePrice": 337659.06
+  },
+  {
+    "id": 1103,
+    "address": {
+      "houseNumber": "24637",
+      "streetName": "Dannette Street",
+      "postcode": "SE11 8CF"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2394.68,
+    "purchasePrice": 231384.87
+  },
+  {
+    "id": 1104,
+    "address": {
+      "houseNumber": "83161",
+      "streetName": "Kurtis Freeway",
+      "postcode": "SE13 3EB"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1634.37,
+    "purchasePrice": 334420.66
+  },
+  {
+    "id": 1105,
+    "address": {
+      "houseNumber": "720",
+      "streetName": "Karyl Turnpike",
+      "postcode": "KT17 7TA"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 908.77,
+    "purchasePrice": 221418.34
+  },
+  {
+    "id": 1106,
+    "address": {
+      "houseNumber": "3783",
+      "streetName": "Markus Valleys",
+      "postcode": "EC11 4WX"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1397.56,
+    "purchasePrice": 706337.48
+  },
+  {
+    "id": 1107,
+    "address": {
+      "houseNumber": "34707",
+      "streetName": "Dickinson Manors",
+      "postcode": "NW17 7KL"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 795.67,
+    "purchasePrice": 206702.83
+  },
+  {
+    "id": 1108,
+    "address": {
+      "houseNumber": "06509",
+      "streetName": "Shawn Place",
+      "postcode": "E4 3MS"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1242.46,
+    "purchasePrice": 483304.03
+  },
+  {
+    "id": 1109,
+    "address": {
+      "houseNumber": "9288",
+      "streetName": "Leslee Road",
+      "postcode": "SW1 5UY"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 955.37,
+    "purchasePrice": 763887.59
+  },
+  {
+    "id": 1110,
+    "address": {
+      "houseNumber": "55071",
+      "streetName": "Lucius Road",
+      "postcode": "KT7 4WP"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1276.07,
+    "purchasePrice": 449175.60
+  },
+  {
+    "id": 1111,
+    "address": {
+      "houseNumber": "562",
+      "streetName": "Janett Hills",
+      "postcode": "WC13 6OL"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2370.81,
+    "purchasePrice": 454952.72
+  },
+  {
+    "id": 1112,
+    "address": {
+      "houseNumber": "602",
+      "streetName": "Vandervort Oval",
+      "postcode": "EC12 2RX"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1145.01,
+    "purchasePrice": 219351.89
+  },
+  {
+    "id": 1113,
+    "address": {
+      "houseNumber": "78826",
+      "streetName": "Hershel Creek",
+      "postcode": "KT17 3BA"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2672.99,
+    "purchasePrice": 921054.12
+  },
+  {
+    "id": 1114,
+    "address": {
+      "houseNumber": "591",
+      "streetName": "Kenny Row",
+      "postcode": "TW2 7RI"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1744.84,
+    "purchasePrice": 533237.05
+  },
+  {
+    "id": 1115,
+    "address": {
+      "houseNumber": "3173",
+      "streetName": "Katheleen Shores",
+      "postcode": "TW8 8CY"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1322.33,
+    "purchasePrice": 191240.25
+  },
+  {
+    "id": 1116,
+    "address": {
+      "houseNumber": "3810",
+      "streetName": "Champlin Motorway",
+      "postcode": "NW12 1GQ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1294.84,
+    "purchasePrice": 168426.53
+  },
+  {
+    "id": 1117,
+    "address": {
+      "houseNumber": "06461",
+      "streetName": "Emelia Greens",
+      "postcode": "TW2 4XN"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1204.06,
+    "purchasePrice": 592934.72
+  },
+  {
+    "id": 1118,
+    "address": {
+      "houseNumber": "4921",
+      "streetName": "Farrah Way",
+      "postcode": "EC6 8KU"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 690.17,
+    "purchasePrice": 336840.54
+  },
+  {
+    "id": 1119,
+    "address": {
+      "houseNumber": "749",
+      "streetName": "Klein Pines",
+      "postcode": "WC7 2DD"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1750.06,
+    "purchasePrice": 417335.17
+  },
+  {
+    "id": 1120,
+    "address": {
+      "houseNumber": "3327",
+      "streetName": "Genesis Divide",
+      "postcode": "KT10 5ES"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2883.17,
+    "purchasePrice": 501745.08
+  },
+  {
+    "id": 1121,
+    "address": {
+      "houseNumber": "425",
+      "streetName": "Royal Center",
+      "postcode": "KT16 5XX"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1257.17,
+    "purchasePrice": 927065.69
+  },
+  {
+    "id": 1122,
+    "address": {
+      "houseNumber": "395",
+      "streetName": "Windler Crest",
+      "postcode": "EC18 1EO"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1835.56,
+    "purchasePrice": 996312.13
+  },
+  {
+    "id": 1123,
+    "address": {
+      "houseNumber": "8865",
+      "streetName": "Moen Brooks",
+      "postcode": "NW6 7MG"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1010.68,
+    "purchasePrice": 593980.89
+  },
+  {
+    "id": 1124,
+    "address": {
+      "houseNumber": "281",
+      "streetName": "Emogene Garden",
+      "postcode": "EC15 2PM"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1179.67,
+    "purchasePrice": 131409.34
+  },
+  {
+    "id": 1125,
+    "address": {
+      "houseNumber": "0126",
+      "streetName": "Johnston Land",
+      "postcode": "WC3 8SY"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 742.03,
+    "purchasePrice": 452741.15
+  },
+  {
+    "id": 1126,
+    "address": {
+      "houseNumber": "1084",
+      "streetName": "Lind Mills",
+      "postcode": "SE7 3ER"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1154.21,
+    "purchasePrice": 205433.90
+  },
+  {
+    "id": 1127,
+    "address": {
+      "houseNumber": "8216",
+      "streetName": "Thomas Trail",
+      "postcode": "WC13 8UG"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 707.21,
+    "purchasePrice": 142508.57
+  },
+  {
+    "id": 1128,
+    "address": {
+      "houseNumber": "797",
+      "streetName": "Dickinson Estate",
+      "postcode": "NW10 2NI"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1223.3,
+    "purchasePrice": 813304.42
+  },
+  {
+    "id": 1129,
+    "address": {
+      "houseNumber": "218",
+      "streetName": "Julio Station",
+      "postcode": "WC3 1MQ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2151.03,
+    "purchasePrice": 181878.04
+  },
+  {
+    "id": 1130,
+    "address": {
+      "houseNumber": "63382",
+      "streetName": "Bernier Junction",
+      "postcode": "KT4 8LR"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2041.62,
+    "purchasePrice": 487734.54
+  },
+  {
+    "id": 1131,
+    "address": {
+      "houseNumber": "620",
+      "streetName": "Turner Terrace",
+      "postcode": "EC17 9RK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 558.1,
+    "purchasePrice": 550668.51
+  },
+  {
+    "id": 1132,
+    "address": {
+      "houseNumber": "453",
+      "streetName": "Shields Highway",
+      "postcode": "TW11 6AG"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1807.07,
+    "purchasePrice": 300274.58
+  },
+  {
+    "id": 1133,
+    "address": {
+      "houseNumber": "60590",
+      "streetName": "Tashina Groves",
+      "postcode": "N16 5XW"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2338.43,
+    "purchasePrice": 536106.79
+  },
+  {
+    "id": 1134,
+    "address": {
+      "houseNumber": "7813",
+      "streetName": "Federico Locks",
+      "postcode": "E7 0QX"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2714.23,
+    "purchasePrice": 622089.48
+  },
+  {
+    "id": 1135,
+    "address": {
+      "houseNumber": "43258",
+      "streetName": "Jamie Keys",
+      "postcode": "WC7 2IN"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1262.95,
+    "purchasePrice": 506371.11
+  },
+  {
+    "id": 1136,
+    "address": {
+      "houseNumber": "70571",
+      "streetName": "Rasheeda Spring",
+      "postcode": "TW18 8EX"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2274.47,
+    "purchasePrice": 354697.88
+  },
+  {
+    "id": 1137,
+    "address": {
+      "houseNumber": "49128",
+      "streetName": "Dave Isle",
+      "postcode": "KT15 7SK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1264.91,
+    "purchasePrice": 175556.61
+  },
+  {
+    "id": 1138,
+    "address": {
+      "houseNumber": "8017",
+      "streetName": "Donnelly Rapids",
+      "postcode": "TW4 3MA"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2712.3,
+    "purchasePrice": 624852.30
+  },
+  {
+    "id": 1139,
+    "address": {
+      "houseNumber": "751",
+      "streetName": "Nicole Station",
+      "postcode": "NW15 0CB"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1583.84,
+    "purchasePrice": 682777.11
+  },
+  {
+    "id": 1140,
+    "address": {
+      "houseNumber": "1188",
+      "streetName": "Kuphal Roads",
+      "postcode": "SE13 6XR"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1780.54,
+    "purchasePrice": 261553.70
+  },
+  {
+    "id": 1141,
+    "address": {
+      "houseNumber": "45344",
+      "streetName": "Mayer Groves",
+      "postcode": "E13 4CX"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2921.51,
+    "purchasePrice": 706240.38
+  },
+  {
+    "id": 1142,
+    "address": {
+      "houseNumber": "61922",
+      "streetName": "Patrica Dam",
+      "postcode": "KT9 0LB"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 1155.56,
+    "purchasePrice": 595191.06
+  },
+  {
+    "id": 1143,
+    "address": {
+      "houseNumber": "12274",
+      "streetName": "Kellye Green",
+      "postcode": "N1 2LL"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1280.81,
+    "purchasePrice": 420120.33
+  },
+  {
+    "id": 1144,
+    "address": {
+      "houseNumber": "199",
+      "streetName": "Amee Mountains",
+      "postcode": "SW2 0HH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1039.08,
+    "purchasePrice": 427326.61
+  },
+  {
+    "id": 1145,
+    "address": {
+      "houseNumber": "87440",
+      "streetName": "Shizuko Courts",
+      "postcode": "KT2 1SD"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 870.86,
+    "purchasePrice": 376414.29
+  },
+  {
+    "id": 1146,
+    "address": {
+      "houseNumber": "08331",
+      "streetName": "Metz Bypass",
+      "postcode": "N11 3IN"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1713.84,
+    "purchasePrice": 392245.41
+  },
+  {
+    "id": 1147,
+    "address": {
+      "houseNumber": "611",
+      "streetName": "Morar Centers",
+      "postcode": "KT16 9ZB"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 689.47,
+    "purchasePrice": 775911.21
+  },
+  {
+    "id": 1148,
+    "address": {
+      "houseNumber": "360",
+      "streetName": "Sook Mission",
+      "postcode": "EC3 8GF"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 616.36,
+    "purchasePrice": 523229.42
+  },
+  {
+    "id": 1149,
+    "address": {
+      "houseNumber": "36512",
+      "streetName": "Christal Valley",
+      "postcode": "N9 5MU"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2979.37,
+    "purchasePrice": 133756.06
+  },
+  {
+    "id": 1150,
+    "address": {
+      "houseNumber": "9845",
+      "streetName": "Jason Crescent",
+      "postcode": "EC3 7TX"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 723.12,
+    "purchasePrice": 611557.91
+  },
+  {
+    "id": 1151,
+    "address": {
+      "houseNumber": "6258",
+      "streetName": "Donte Ridges",
+      "postcode": "N13 3KR"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2666.78,
+    "purchasePrice": 835547.60
+  },
+  {
+    "id": 1152,
+    "address": {
+      "houseNumber": "402",
+      "streetName": "Feest Plaza",
+      "postcode": "N7 7LF"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2401.51,
+    "purchasePrice": 556833.15
+  },
+  {
+    "id": 1153,
+    "address": {
+      "houseNumber": "4813",
+      "streetName": "Daugherty Neck",
+      "postcode": "N16 2GL"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2993.49,
+    "purchasePrice": 967223.08
+  },
+  {
+    "id": 1154,
+    "address": {
+      "houseNumber": "87160",
+      "streetName": "Braun Lake",
+      "postcode": "WC16 9KK"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 784.18,
+    "purchasePrice": 371282.18
+  },
+  {
+    "id": 1155,
+    "address": {
+      "houseNumber": "1785",
+      "streetName": "Steve Club",
+      "postcode": "SE2 0MZ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 656.12,
+    "purchasePrice": 751308.38
+  },
+  {
+    "id": 1156,
+    "address": {
+      "houseNumber": "21963",
+      "streetName": "Lehner Bypass",
+      "postcode": "KT6 7IR"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1346.71,
+    "purchasePrice": 437349.03
+  },
+  {
+    "id": 1157,
+    "address": {
+      "houseNumber": "1183",
+      "streetName": "Reyes Flat",
+      "postcode": "WC14 6GW"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2593.09,
+    "purchasePrice": 216101.66
+  },
+  {
+    "id": 1158,
+    "address": {
+      "houseNumber": "433",
+      "streetName": "Georgette Glen",
+      "postcode": "SE4 4YA"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2615.04,
+    "purchasePrice": 450055.29
+  },
+  {
+    "id": 1159,
+    "address": {
+      "houseNumber": "953",
+      "streetName": "Ebert Drives",
+      "postcode": "WC15 7BX"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2048.8,
+    "purchasePrice": 959583.88
+  },
+  {
+    "id": 1160,
+    "address": {
+      "houseNumber": "2788",
+      "streetName": "Joel Expressway",
+      "postcode": "SW10 2JW"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2088.0,
+    "purchasePrice": 232272.93
+  },
+  {
+    "id": 1161,
+    "address": {
+      "houseNumber": "245",
+      "streetName": "Walker Heights",
+      "postcode": "NW13 9WH"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1568.6,
+    "purchasePrice": 465459.75
+  },
+  {
+    "id": 1162,
+    "address": {
+      "houseNumber": "972",
+      "streetName": "Lauralee Harbor",
+      "postcode": "NW2 6EY"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2213.32,
+    "purchasePrice": 170557.41
+  },
+  {
+    "id": 1163,
+    "address": {
+      "houseNumber": "7349",
+      "streetName": "Benton Stravenue",
+      "postcode": "TW7 7KV"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2051.21,
+    "purchasePrice": 470654.17
+  },
+  {
+    "id": 1164,
+    "address": {
+      "houseNumber": "27631",
+      "streetName": "Wunsch Throughway",
+      "postcode": "E18 0TC"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2652.96,
+    "purchasePrice": 684811.25
+  },
+  {
+    "id": 1165,
+    "address": {
+      "houseNumber": "3590",
+      "streetName": "Bergnaum Ville",
+      "postcode": "N17 1OA"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2338.04,
+    "purchasePrice": 488590.85
+  },
+  {
+    "id": 1166,
+    "address": {
+      "houseNumber": "18869",
+      "streetName": "Hansen Underpass",
+      "postcode": "EC7 3VG"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2750.85,
+    "purchasePrice": 125919.56
+  },
+  {
+    "id": 1167,
+    "address": {
+      "houseNumber": "088",
+      "streetName": "Lamar Shoals",
+      "postcode": "N4 6MP"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2470.51,
+    "purchasePrice": 706609.31
+  },
+  {
+    "id": 1168,
+    "address": {
+      "houseNumber": "53544",
+      "streetName": "Jeremiah Harbors",
+      "postcode": "E13 6EN"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 681.14,
+    "purchasePrice": 955646.67
+  },
+  {
+    "id": 1169,
+    "address": {
+      "houseNumber": "67459",
+      "streetName": "Humberto Burg",
+      "postcode": "SE14 2ZP"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 530.86,
+    "purchasePrice": 129599.42
+  },
+  {
+    "id": 1170,
+    "address": {
+      "houseNumber": "60078",
+      "streetName": "Johnny Oval",
+      "postcode": "KT10 6JV"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 920.72,
+    "purchasePrice": 643501.52
+  },
+  {
+    "id": 1171,
+    "address": {
+      "houseNumber": "085",
+      "streetName": "Glover Circle",
+      "postcode": "NW18 5ID"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 2707.73,
+    "purchasePrice": 268615.80
+  },
+  {
+    "id": 1172,
+    "address": {
+      "houseNumber": "60351",
+      "streetName": "Maurice Via",
+      "postcode": "E8 1TK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 956.72,
+    "purchasePrice": 365284.26
+  },
+  {
+    "id": 1173,
+    "address": {
+      "houseNumber": "8963",
+      "streetName": "Homenick Viaduct",
+      "postcode": "N1 1QJ"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1022.01,
+    "purchasePrice": 613038.55
+  },
+  {
+    "id": 1174,
+    "address": {
+      "houseNumber": "749",
+      "streetName": "Adolph Streets",
+      "postcode": "E18 0RP"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1987.84,
+    "purchasePrice": 841064.75
+  },
+  {
+    "id": 1175,
+    "address": {
+      "houseNumber": "38943",
+      "streetName": "Chase Ville",
+      "postcode": "EC13 2RQ"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1436.31,
+    "purchasePrice": 404818.90
+  },
+  {
+    "id": 1176,
+    "address": {
+      "houseNumber": "30484",
+      "streetName": "Wiegand Summit",
+      "postcode": "N2 0BK"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1395.5,
+    "purchasePrice": 981006.88
+  },
+  {
+    "id": 1177,
+    "address": {
+      "houseNumber": "2946",
+      "streetName": "Jeni Motorway",
+      "postcode": "WC3 6FK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 860.83,
+    "purchasePrice": 703742.91
+  },
+  {
+    "id": 1178,
+    "address": {
+      "houseNumber": "6590",
+      "streetName": "Danna Hills",
+      "postcode": "KT16 3WV"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2802.12,
+    "purchasePrice": 321296.44
+  },
+  {
+    "id": 1179,
+    "address": {
+      "houseNumber": "5379",
+      "streetName": "Shields Spring",
+      "postcode": "KT7 2EC"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1462.81,
+    "purchasePrice": 648056.51
+  },
+  {
+    "id": 1180,
+    "address": {
+      "houseNumber": "974",
+      "streetName": "Darin Squares",
+      "postcode": "TW10 6LT"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2552.87,
+    "purchasePrice": 918186.59
+  },
+  {
+    "id": 1181,
+    "address": {
+      "houseNumber": "2278",
+      "streetName": "Reagan Loop",
+      "postcode": "KT17 2PH"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2487.88,
+    "purchasePrice": 870052.28
+  },
+  {
+    "id": 1182,
+    "address": {
+      "houseNumber": "3783",
+      "streetName": "Jeff Radial",
+      "postcode": "SE5 1GA"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1272.12,
+    "purchasePrice": 511324.33
+  },
+  {
+    "id": 1183,
+    "address": {
+      "houseNumber": "65859",
+      "streetName": "Terry Corner",
+      "postcode": "NW9 2CY"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 712.56,
+    "purchasePrice": 375779.10
+  },
+  {
+    "id": 1184,
+    "address": {
+      "houseNumber": "31314",
+      "streetName": "Corwin Land",
+      "postcode": "N8 3FH"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2113.23,
+    "purchasePrice": 639041.98
+  },
+  {
+    "id": 1185,
+    "address": {
+      "houseNumber": "55935",
+      "streetName": "Predovic Underpass",
+      "postcode": "EC8 3VA"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 765.94,
+    "purchasePrice": 317844.13
+  },
+  {
+    "id": 1186,
+    "address": {
+      "houseNumber": "96973",
+      "streetName": "Beahan Motorway",
+      "postcode": "N3 8LK"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1371.75,
+    "purchasePrice": 536688.54
+  },
+  {
+    "id": 1187,
+    "address": {
+      "houseNumber": "638",
+      "streetName": "Cody Rue",
+      "postcode": "TW6 6JN"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 2572.57,
+    "purchasePrice": 290486.04
+  },
+  {
+    "id": 1188,
+    "address": {
+      "houseNumber": "398",
+      "streetName": "Joel Port",
+      "postcode": "TW12 5KN"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2765.97,
+    "purchasePrice": 225715.51
+  },
+  {
+    "id": 1189,
+    "address": {
+      "houseNumber": "50905",
+      "streetName": "West Pass",
+      "postcode": "EC10 3LG"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 931.5,
+    "purchasePrice": 920763.30
+  },
+  {
+    "id": 1190,
+    "address": {
+      "houseNumber": "477",
+      "streetName": "Jesus Prairie",
+      "postcode": "KT2 6ML"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2714.29,
+    "purchasePrice": 318742.92
+  },
+  {
+    "id": 1191,
+    "address": {
+      "houseNumber": "04916",
+      "streetName": "Corwin Flats",
+      "postcode": "TW1 1DJ"
+    },
+    "noOfBedrooms": 2,
+    "sizeBySqrFoot": 1165.84,
+    "purchasePrice": 656887.53
+  },
+  {
+    "id": 1192,
+    "address": {
+      "houseNumber": "60718",
+      "streetName": "Beverlee Burg",
+      "postcode": "SE17 8IU"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 917.66,
+    "purchasePrice": 236663.60
+  },
+  {
+    "id": 1193,
+    "address": {
+      "houseNumber": "842",
+      "streetName": "Abraham Spur",
+      "postcode": "WC13 6YI"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 838.99,
+    "purchasePrice": 239909.53
+  },
+  {
+    "id": 1194,
+    "address": {
+      "houseNumber": "06264",
+      "streetName": "Hammes Hill",
+      "postcode": "EC2 8BB"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1065.75,
+    "purchasePrice": 179390.25
+  },
+  {
+    "id": 1195,
+    "address": {
+      "houseNumber": "3589",
+      "streetName": "West Heights",
+      "postcode": "N10 1ST"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 1830.75,
+    "purchasePrice": 316854.79
+  },
+  {
+    "id": 1196,
+    "address": {
+      "houseNumber": "05294",
+      "streetName": "Morar Trace",
+      "postcode": "N5 1YM"
+    },
+    "noOfBedrooms": 1,
+    "sizeBySqrFoot": 2075.97,
+    "purchasePrice": 278022.00
+  },
+  {
+    "id": 1197,
+    "address": {
+      "houseNumber": "4403",
+      "streetName": "Keeling Turnpike",
+      "postcode": "TW9 9FT"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1063.57,
+    "purchasePrice": 311711.11
+  },
+  {
+    "id": 1198,
+    "address": {
+      "houseNumber": "883",
+      "streetName": "Melynda Walks",
+      "postcode": "NW7 4RN"
+    },
+    "noOfBedrooms": 3,
+    "sizeBySqrFoot": 1295.17,
+    "purchasePrice": 771067.10
+  },
+  {
+    "id": 1199,
+    "address": {
+      "houseNumber": "25611",
+      "streetName": "Moore Corner",
+      "postcode": "WC18 1JA"
+    },
+    "noOfBedrooms": 4,
+    "sizeBySqrFoot": 2661.3,
+    "purchasePrice": 368649.22
   }
 ]
