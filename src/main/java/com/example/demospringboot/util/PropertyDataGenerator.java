@@ -2,7 +2,7 @@ package com.example.demospringboot.util;
 
 import com.example.demospringboot.data.FileHandler;
 import com.example.demospringboot.model.Address;
-import com.example.demospringboot.data.PropertyDTO;
+import com.example.demospringboot.data.PropertyData;
 import com.example.demospringboot.model.Property;
 import com.github.javafaker.Faker;
 
@@ -12,37 +12,37 @@ import java.math.RoundingMode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PropertyDTOGenerator {
+public class PropertyDataGenerator {
 
 
-    public static List<PropertyDTO> generatePropertyDTOList(int numberOfEntries) {
-        List<PropertyDTO> propertyDTOList = new ArrayList<>();
+    public static List<PropertyData> generatePropertyDataList(int numberOfEntries) {
+        List<PropertyData> propertyDataList = new ArrayList<>();
         Faker faker = new Faker();
 
         for (int i = 1; i <= numberOfEntries; i++) {
-            PropertyDTO propertyDTO = createRandomPropertyDTO(i, faker);
-            propertyDTOList.add(propertyDTO);
+            PropertyData propertyData = createRandomPropertyData(i, faker);
+            propertyDataList.add(propertyData);
         }
 
-        return propertyDTOList;
+        return propertyDataList;
     }
 
-    private static PropertyDTO createRandomPropertyDTO(int id, Faker faker) {
-        PropertyDTO propertyDTO = new PropertyDTO(new Property(), id);
+    private static PropertyData createRandomPropertyData(int id, Faker faker) {
+        PropertyData propertyData = new PropertyData(new Property(), id);
 
         Address address = new Address();
         address.setHouseNumber(faker.address().buildingNumber());
         address.setStreetName(faker.address().streetName());
         address.setPostcode(generateRandomLondonPostcode());
 
-        propertyDTO.setAddress(address);
-        propertyDTO.setNoOfBedrooms(faker.number().numberBetween(1, 5));
-        propertyDTO.setSizeBySqrFoot(faker.number().randomDouble(2, 500, 3000));
-        propertyDTO.setPurchasePrice(new BigDecimal(
+        propertyData.setAddress(address);
+        propertyData.setNoOfBedrooms(faker.number().numberBetween(1, 5));
+        propertyData.setSizeBySqrFoot(faker.number().randomDouble(2, 500, 3000));
+        propertyData.setPurchasePrice(new BigDecimal(
                 faker.number().randomDouble(2, 100000, 1000000)
         ).setScale(2, RoundingMode.HALF_UP));
 
-        return propertyDTO;
+        return propertyData;
     }
     private static String generateRandomLondonPostcode() {
         // London area codes
@@ -63,13 +63,13 @@ public class PropertyDTOGenerator {
 
 
     public static void main(String[] args) throws IOException {
-        List<PropertyDTO> propertyDTOList = generatePropertyDTOList(600);
+        List<PropertyData> propertyDataList = generatePropertyDataList(600);
 
         // Print the generated JSON
         System.out.println("[");
-        for (PropertyDTO propertyDTO : propertyDTOList) {
-            new FileHandler().write(propertyDTO);
-            System.out.println("  " + propertyDTO.toString() + ",");
+        for (PropertyData propertyData : propertyDataList) {
+            new FileHandler().write(propertyData);
+            System.out.println("  " + propertyData.toString() + ",");
         }
         System.out.println("]");
     }

@@ -2,7 +2,7 @@ package com.example.demospringboot.service;
 
 import com.example.demospringboot.data.FileHandler;
 import com.example.demospringboot.model.Property;
-import com.example.demospringboot.data.PropertyDTO;
+import com.example.demospringboot.data.PropertyData;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -15,7 +15,7 @@ public class PropertyService {
     @Autowired
     FileHandler fileHandler;
 
-    public PropertyDTO create(Property property) {
+    public PropertyData create(Property property) {
         try {
             return fileHandler.write(property);
         } catch (IOException e) {
@@ -23,16 +23,16 @@ public class PropertyService {
         }
     }
 
-    public List<PropertyDTO> read(){
+    public List<PropertyData> read(){
         return fileHandler.read();
     }
 
-    public PropertyDTO readById(Integer id){
+    public PropertyData readById(Integer id){
         checkId(id);
         return fileHandler.readById(id);
     }
 
-    public PropertyDTO update(Property property, Integer id) {
+    public PropertyData update(Property property, Integer id) {
         checkId(id);
         try {
             return fileHandler.update(id, property);
@@ -51,14 +51,14 @@ public class PropertyService {
     }
 
     public String getAverageSqrFootPrice(String areacode) {
-        List<PropertyDTO> matchingProperties = searchByLondonAreaCode(areacode);
+        List<PropertyData> matchingProperties = searchByLondonAreaCode(areacode);
         Double total = Double.valueOf(0.0);
 
         if(matchingProperties.size() == 0){
             return "No postcodes with area code " + areacode;
         }
 
-        for (PropertyDTO property : matchingProperties) {
+        for (PropertyData property : matchingProperties) {
             total = total + property.getSizeBySqrFoot();
         }
 
@@ -66,16 +66,24 @@ public class PropertyService {
 
     }
 
-    private List<PropertyDTO> searchByLondonAreaCode(String areacode) {
-        List<PropertyDTO> searchResults = new ArrayList<>();
-        List<PropertyDTO> propertyDTOList = fileHandler.read();
+    /**
+     * As the array stored is in insertion order
+     * A linear search is best for
+     * @param areacode - the first part of the postcode, i.e. SE1 8AA, this is SE8 part
+     * @return the items in list that match areacode
+     */
+    private List<PropertyData> searchByLondonAreaCode(String areacode) {
+        List<PropertyData> searchResults = new ArrayList<>();
 
-        for (PropertyDTO propertyDTO : propertyDTOList) {
-            String postcode = propertyDTO.getAddress().getPostcode();
+        //get all the properties we have
+        List<PropertyData> propertyDataList = fileHandler.read();
+
+        for (PropertyData propertyData : propertyDataList) {
+            String postcode = propertyData.getAddress().getPostcode();
 
             // Check if the postcode starts with the target area code
             if (postcode.toUpperCase().startsWith(areacode.toUpperCase() + " ")) {
-                searchResults.add(propertyDTO);
+                searchResults.add(propertyData);
             }
         }
 

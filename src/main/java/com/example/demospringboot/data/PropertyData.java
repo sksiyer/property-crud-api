@@ -2,10 +2,10 @@ package com.example.demospringboot.data;
 
 import com.example.demospringboot.model.Property;
 
-public class PropertyDTO extends Property {
+public class PropertyData extends Property {
     private int id;
 
-    public PropertyDTO(Property property, Integer id){
+    public PropertyData(Property property, Integer id){
         this.id = id;
         this.setAddress(property.getAddress());
         this.setNoOfBedrooms(property.getNoOfBedrooms());

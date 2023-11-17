@@ -16,29 +16,29 @@ import java.util.List;
 public class FileHandler {
     public static String FILE_PATH = "src/main/resources/properties.json";
 
-    public PropertyDTO write(Property property) throws IOException {
+    public PropertyData write(Property property) throws IOException {
         Integer nextId = findNextId();
 
-        PropertyDTO dto = new PropertyDTO(property, findNextId());
+        PropertyData data = new PropertyData(property, findNextId());
 
         if (nextId == 1) {
-            saveFile(List.of(dto));
-            return dto;
+            saveFile(List.of(data));
+            return data;
         }
 
-        List<PropertyDTO> data = read();
-        data.add(dto);
+        List<PropertyData> list = read();
+        list.add(data);
 
-        saveFile(data);
+        saveFile(list);
 
-        return dto;
+        return data;
     }
 
-    public List<PropertyDTO> read() {
-        List<PropertyDTO> list = new ArrayList<>();
+    public List<PropertyData> read() {
+        List<PropertyData> list = new ArrayList<>();
 
         try {
-            Type type = new TypeToken<List<PropertyDTO>>() {}.getType();
+            Type type = new TypeToken<List<PropertyData>>() {}.getType();
             Gson gson = new Gson();
             JsonReader reader = new JsonReader(new FileReader(FILE_PATH));
             list = gson.fromJson(reader, type);
@@ -53,24 +53,24 @@ public class FileHandler {
         return list;
     }
 
-    public PropertyDTO readById(Integer id) {
-        List<PropertyDTO> list = read().stream()
-                .filter(propertyDTO -> propertyDTO.getId() == id)
+    public PropertyData readById(Integer id) {
+        List<PropertyData> list = read().stream()
+                .filter(propertyDATA -> propertyDATA.getId() == id)
                 .toList();
 
-        if(list == null || list.size() == 0){
+        if(list.size() == 0){
             return null;
         }
 
         return list.get(0);
     }
 
-    public PropertyDTO update(Integer id, Property property) throws IOException {
+    public PropertyData update(Integer id, Property property) throws IOException {
         // first get the entire list in properties.json file to update later
-        List<PropertyDTO> list = read();
+        List<PropertyData> list = read();
 
         // Get the property to update by id
-        PropertyDTO currentProperty = readById(id);
+        PropertyData currentProperty = readById(id);
 
         // now we have the property, lets set the new values on all the fields
         // from the parameter property given by the user in the api
@@ -80,11 +80,11 @@ public class FileHandler {
         // we do this by going through each item on the list
         // and if the id's match, we replace the property with the
         // current property we created above
-        List<PropertyDTO> listToSave = list.stream().map(propertyDTO -> {
-            if (propertyDTO.getId() == id) {
+        List<PropertyData> listToSave = list.stream().map(propertyDATA -> {
+            if (propertyDATA.getId() == id) {
                 return currentProperty;
             }
-            return propertyDTO;
+            return propertyDATA;
         }).toList();
 
         // write the new list into the file
@@ -99,16 +99,16 @@ public class FileHandler {
     }
 
     public void delete(Integer id) throws IOException {
-        List<PropertyDTO> list = read();
-        List<PropertyDTO> listToSave = list.stream()
-                .filter(propertyDTO -> propertyDTO.getId() != id)
+        List<PropertyData> list = read();
+        List<PropertyData> listToSave = list.stream()
+                .filter(propertyDATA -> propertyDATA.getId() != id)
                 .toList();
 
         saveFile(listToSave);
     }
 
     public Integer findNextId() {
-        List<PropertyDTO> data = read();
+        List<PropertyData> data = read();
 
         if(data.size() == 0){
             return 0;
@@ -119,7 +119,7 @@ public class FileHandler {
         return data.get(lastIndex).getId() + 1;
     }
 
-    private void saveFile(List<PropertyDTO> listToSave) throws IOException {
+    private void saveFile(List<PropertyData> listToSave) throws IOException {
         // write the new list into the file
         try (Writer writer = new FileWriter(FILE_PATH)) {
             Gson gson = new GsonBuilder().setPrettyPrinting().create();

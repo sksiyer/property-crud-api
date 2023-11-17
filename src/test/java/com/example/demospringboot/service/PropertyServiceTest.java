@@ -1,7 +1,7 @@
 package com.example.demospringboot.service;
 
 import com.example.demospringboot.data.FileHandler;
-import com.example.demospringboot.data.PropertyDTO;
+import com.example.demospringboot.data.PropertyData;
 import com.example.demospringboot.model.Property;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -34,9 +34,9 @@ public class PropertyServiceTest {
         property.setPurchasePrice(BigDecimal.valueOf(1000000.00));
         property.setSizeBySqrFoot(33.33);
 
-        when(fileHandler.readById(anyInt())).thenReturn(new PropertyDTO(property, 45));
+        when(fileHandler.readById(anyInt())).thenReturn(new PropertyData(property, 45));
 
-        PropertyDTO foundProperty = service.readById(45);
+        PropertyData foundProperty = service.readById(45);
 
         assert(foundProperty.getId() == 45);
     }
